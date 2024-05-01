@@ -1,4 +1,632 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pandy</title><link>https://pandy.cc/</link><description>Recent content on Pandy</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 01 May 2024 11:26:43 +0800</lastBuildDate><atom:link href="https://pandy.cc/index.xml" rel="self" type="application/rss+xml"/><item><title>测试</title><link>https://pandy.cc/p/%E6%B5%8B%E8%AF%95/</link><pubDate>Wed, 01 May 2024 11:26:43 +0800</pubDate><guid>https://pandy.cc/p/%E6%B5%8B%E8%AF%95/</guid><description/></item><item><title>My First Post</title><link>https://pandy.cc/p/my-first-post/</link><pubDate>Wed, 01 May 2024 09:55:49 +0800</pubDate><guid>https://pandy.cc/p/my-first-post/</guid><description>&lt;h3 id="测试-123">
-&lt;a href="#%e6%b5%8b%e8%af%95-123" class="header-anchor">#&lt;/a>
-测试 123
-&lt;/h3></description></item><item><title>归档</title><link>https://pandy.cc/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://pandy.cc/archives/</guid><description/></item><item><title>关于</title><link>https://pandy.cc/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pandy.cc/%E5%85%B3%E4%BA%8E/</guid><description>&lt;p>这个人很懒，什么都没有留下。&lt;/p></description></item><item><title>链接</title><link>https://pandy.cc/%E9%93%BE%E6%8E%A5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pandy.cc/%E9%93%BE%E6%8E%A5/</guid><description/></item><item><title>搜索</title><link>https://pandy.cc/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pandy.cc/search/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pandy</title><link>https://pandy.cc/</link><description>Recent content on Pandy</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pandy.cc/index.xml" rel="self" type="application/rss+xml"/><item><title>海神夏</title><link>https://pandy.cc/p/shi/hai-shen-xia/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://pandy.cc/p/shi/hai-shen-xia/</guid><description>&lt;img src="https://pandy.cc/p/shi/hai-shen-xia/flower.png" alt="Featured image of post 海神夏" />&lt;p>在这里整理一下这十几年来零零散散写的一些不知道是叫做诗？还是不带标点符号的文字这样的东西，在组织长短句的时候，我只是总感觉到有点莫名澎湃。&lt;/p>
+&lt;p>用&lt;strong>海神夏&lt;/strong>作为诗集的名字，我比较喜欢这三个字，组合在一起用在这里感觉还挺合适。&lt;/p>
+&lt;p>还得去翻翻笔记本、书、小纸条之类的，翻到了诗就更新上来，所以这个诗集应该会持续更新。&lt;/p>
+&lt;p>用玫瑰碎冰蓝作为封面，生活中需要有一些诗意，当然，还有温柔与勇敢。&lt;/p>
+&lt;hr>
+&lt;h3 id="你">
+&lt;a href="#%e4%bd%a0" class="header-anchor">#&lt;/a>
+你
+&lt;/h3>&lt;blockquote>
+&lt;p>猫&lt;/p>
+&lt;p>打翻公主的早茶&lt;/p>
+&lt;p>你的长发&lt;/p>
+&lt;p>阻止我偷看&lt;/p>
+&lt;p>风&lt;/p>
+&lt;p>牵走王子的白马&lt;/p>
+&lt;p>你的裙摆&lt;/p>
+&lt;p>却说 这是真爱&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="秋夜月凉星河">
+&lt;a href="#%e7%a7%8b%e5%a4%9c%e6%9c%88%e5%87%89%e6%98%9f%e6%b2%b3" class="header-anchor">#&lt;/a>
+秋夜月凉星河
+&lt;/h3>&lt;blockquote>
+&lt;p>昨夜秋月凉星河&lt;/p>
+&lt;p>杏色凝露&lt;/p>
+&lt;p>霜叶纷飞&lt;/p>
+&lt;p>孤影南雁&lt;/p>
+&lt;p>声渐掩余晖&lt;/p>
+&lt;p>残阳垂落暮色归&lt;/p>
+&lt;p>寒宫月遥缀&lt;/p>
+&lt;p>未遇嫦娥媚&lt;/p>
+&lt;p>金阁银阙&lt;/p>
+&lt;p>岳峙临渊巍巍&lt;/p>
+&lt;p>轩窗棂下&lt;/p>
+&lt;p>皓齿铜镜&lt;/p>
+&lt;p>红妆旧柜&lt;/p>
+&lt;p>朱纸画眉&lt;/p>
+&lt;p>凝弓饮醉&lt;/p>
+&lt;p>斑驳岁月催&lt;/p>
+&lt;p>庭外花折泪&lt;/p>
+&lt;p>竹影窗扉&lt;/p>
+&lt;p>卧听风雨&lt;/p>
+&lt;p>一一廊回&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="信">
+&lt;a href="#%e4%bf%a1" class="header-anchor">#&lt;/a>
+信
+&lt;/h3>&lt;blockquote>
+&lt;p>你说 想你就写信&lt;/p>
+&lt;p>我于是 在一个刚 下过雨的 午后&lt;/p>
+&lt;p>摊开信纸&lt;/p>
+&lt;p>那里倒映着 未散尽的流云&lt;/p>
+&lt;p>字里行间 云朵漂浮 明暗变化&lt;/p>
+&lt;p>我写着 最近 你还好吗&lt;/p>
+&lt;p>浅风不时刮来一点点残雨&lt;/p>
+&lt;p>不足以将情绪浸湿&lt;/p>
+&lt;p>猫跳上我的背&lt;/p>
+&lt;p>我和夏天 同时吓了一跳&lt;/p>
+&lt;p>阳光射出云层&lt;/p>
+&lt;p>微冷疏忽不见&lt;/p>
+&lt;p>写完了 先念给你听听吧&lt;/p>
+&lt;p>猫的胡须 看了看我 闭上了眼睛&lt;/p>
+&lt;p>突然有一只红蜻蜓&lt;/p>
+&lt;p>我还是没搞懂&lt;/p>
+&lt;p>它那扇动到快在空气里 折射出曳光的翅膀&lt;/p>
+&lt;p>如何跟猫步一样&lt;/p>
+&lt;p>静谧地不约而同&lt;/p>
+&lt;p>它停在附近的篱笆墙上&lt;/p>
+&lt;p>想像和我一起&lt;/p>
+&lt;p>在猫的胡须上旅行&lt;/p>
+&lt;p>一切像静止不动&lt;/p>
+&lt;p>宇宙有这么一瞬间 嗯… 在某一刻 某个角落&lt;/p>
+&lt;p>静止不动&lt;/p>
+&lt;p>那么近的幸福呵&lt;/p>
+&lt;p>风却来了&lt;/p>
+&lt;p>蜻蜓 一瞬间 婉拒了地心引力&lt;/p>
+&lt;p>猫 悄无声息 起落在了 两米之外&lt;/p>
+&lt;p>只有风声&lt;/p>
+&lt;p>风儿啊 风啊&lt;/p>
+&lt;p>请你稍等&lt;/p>
+&lt;p>我念给你听&lt;/p>
+&lt;p>你比马车要快 如此之快&lt;/p>
+&lt;p>在暮色来临之前&lt;/p>
+&lt;p>她就能感受到 这温柔何在&lt;/p>
+&lt;p>风 无处不在&lt;/p>
+&lt;p>上一秒 从我写信的笔尖 刮过&lt;/p>
+&lt;p>下一秒&lt;/p>
+&lt;p>我将心事 念给你听…&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="雪夜">
+&lt;a href="#%e9%9b%aa%e5%a4%9c" class="header-anchor">#&lt;/a>
+雪夜
+&lt;/h3>&lt;blockquote>
+&lt;p>雪沁梅蕊三两粒，&lt;/p>
+&lt;p>心筝映白月隔云；&lt;/p>
+&lt;p>渊渟湛然临岳峙，&lt;/p>
+&lt;p>昏夜将故得我心。&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="以为">
+&lt;a href="#%e4%bb%a5%e4%b8%ba" class="header-anchor">#&lt;/a>
+以为
+&lt;/h3>&lt;blockquote>
+&lt;p>我们以为的永恒都幻化为了 瞬间&lt;/p>
+&lt;p>我们以为的瞬间 又倏忽变成了晚风&lt;/p>
+&lt;p>我们理解的亘古不变&lt;/p>
+&lt;p>都不过是遍地虚妄 一切皆空&lt;/p>
+&lt;p>我们追寻的真理与正义&lt;/p>
+&lt;p>注定要 孤独百年&lt;/p>
+&lt;p>我们爱着自由 爱着诗&lt;/p>
+&lt;p>爱着整个宇宙&lt;/p>
+&lt;p>少年啊&lt;/p>
+&lt;p>何必皱眉萧瑟了无意&lt;/p>
+&lt;p>那彼岸尚有荣光&lt;/p>
+&lt;p>那长夜都将温存&amp;hellip;&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="月亮是海的心">
+&lt;a href="#%e6%9c%88%e4%ba%ae%e6%98%af%e6%b5%b7%e7%9a%84%e5%bf%83" class="header-anchor">#&lt;/a>
+月亮是海的心
+&lt;/h3>&lt;blockquote>
+&lt;p>天空是海的倒影&lt;br>
+月亮是海的心&lt;br>
+而你&lt;/p>
+&lt;p>是我的心&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="破晓">
+&lt;a href="#%e7%a0%b4%e6%99%93" class="header-anchor">#&lt;/a>
+破晓
+&lt;/h3>&lt;blockquote>
+&lt;p>星空在破晓时分迎来最后一次璀璨&lt;/p>
+&lt;p>轻轻的夜风吻着院落蔷薇也吻过你的发梢&lt;/p>
+&lt;p>月亮藏在乌云的后面&lt;/p>
+&lt;p>在它的心的位置&lt;/p>
+&lt;p>似乎将要有皎洁流泻&lt;/p>
+&lt;p>那里是我想好的写好的背好的&lt;/p>
+&lt;p>想要对你说的话&lt;/p>
+&lt;p>只可惜&lt;/p>
+&lt;p>几欲挣扎&lt;/p>
+&lt;p>却日出临作罢&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="赠君">
+&lt;a href="#%e8%b5%a0%e5%90%9b" class="header-anchor">#&lt;/a>
+赠君
+&lt;/h3>&lt;blockquote>
+&lt;p>季雨落庭花，清院听煮茶；&lt;/p>
+&lt;p>远山浮云起，筝声到天涯。&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="早安">
+&lt;a href="#%e6%97%a9%e5%ae%89" class="header-anchor">#&lt;/a>
+早安
+&lt;/h3>&lt;blockquote>
+&lt;p>一抹淡蓝&lt;/p>
+&lt;p>会给心上色一整天&lt;/p>
+&lt;p>我的&lt;/p>
+&lt;p>早安&lt;/p>
+&lt;p>会不会&lt;/p>
+&lt;p>天空和海都听得见&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cdb2b8554a14cc4eec2ee9950dd66f1.jpg"
+loading="lazy"
+alt="早安"
+>&lt;/p>
+&lt;h3 id="问">
+&lt;a href="#%e9%97%ae" class="header-anchor">#&lt;/a>
+问
+&lt;/h3>&lt;blockquote>
+&lt;p>想用湿漉漉的感觉&lt;/p>
+&lt;p>为你诉说一个故事&lt;/p>
+&lt;p>不知喜欢下雨的你&lt;/p>
+&lt;p>可愿细听？&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="欢喜">
+&lt;a href="#%e6%ac%a2%e5%96%9c" class="header-anchor">#&lt;/a>
+欢喜
+&lt;/h3>&lt;blockquote>
+&lt;p>天空中的阴云集聚&lt;/p>
+&lt;p>措辞再含蓄&lt;/p>
+&lt;p>我喜欢你&lt;/p>
+&lt;p>这实在是&lt;/p>
+&lt;p>即使不张嘴&lt;/p>
+&lt;p>也从眼睛中暴露无疑的事&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="你是">
+&lt;a href="#%e4%bd%a0%e6%98%af" class="header-anchor">#&lt;/a>
+你是
+&lt;/h3>&lt;blockquote>
+&lt;p>你是海、神和夏&lt;/p>
+&lt;p>是诗、宇宙、死亡&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="出逃">
+&lt;a href="#%e5%87%ba%e9%80%83" class="header-anchor">#&lt;/a>
+出逃
+&lt;/h3>&lt;blockquote>
+&lt;p>媳妇跟人跑了&lt;/p>
+&lt;p>是昨晚的事&lt;/p>
+&lt;p>鸡叫了头遍&lt;/p>
+&lt;p>全村人都学会了讲故事&lt;/p>
+&lt;p>有人说她不好&lt;/p>
+&lt;p>有人说你不行&lt;/p>
+&lt;p>还有人怪这花花世界&lt;/p>
+&lt;p>还有人说到了风水 面相 生肖 八字&lt;/p>
+&lt;p>有人在笑 看你来了 又看着想哭&lt;/p>
+&lt;p>毕竟媳妇跑了&lt;/p>
+&lt;p>在三月的一个下弦月&lt;/p>
+&lt;p>井台上的水杯结了薄薄的霜&lt;/p>
+&lt;p>牵牛像是倒映了天空的淡蓝&lt;/p>
+&lt;p>风扇上结了几根蜘蛛网&lt;/p>
+&lt;p>从一个家里跑入这个世界&lt;/p>
+&lt;p>跑向她以为的温存&lt;/p>
+&lt;p>他想着自己到底哪点不好&lt;/p>
+&lt;p>巧了&lt;/p>
+&lt;p>因为她也是这样想的&lt;/p>
+&lt;p>从一个世界跑入另一个世界&lt;/p>
+&lt;p>这个世界会变好吗&lt;/p>
+&lt;p>新人旧人&lt;/p>
+&lt;p>旧人新人&lt;/p>
+&lt;p>他写道&lt;/p>
+&lt;p>也许生活的本质在于变化&lt;/p>
+&lt;p>又写道&lt;/p>
+&lt;p>其实人就是在寻找的过程&lt;/p>
+&lt;p>他想着地里的草还没锄呢&lt;/p>
+&lt;p>就出门了&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="今夜只想做个婊子">
+&lt;a href="#%e4%bb%8a%e5%a4%9c%e5%8f%aa%e6%83%b3%e5%81%9a%e4%b8%aa%e5%a9%8a%e5%ad%90" class="header-anchor">#&lt;/a>
+今夜，只想做个婊子
+&lt;/h3>&lt;blockquote>
+&lt;p>我本来就是一个应该被讨厌的人&lt;/p>
+&lt;p>可那又怎样呢&lt;/p>
+&lt;p>婊子就不能读懂简爱吗&lt;/p>
+&lt;p>就不能读尼采吗&lt;/p>
+&lt;p>就不能理解海明威的锋利&lt;/p>
+&lt;p>托尔斯泰的深沉吗&lt;/p>
+&lt;p>就不能写诗吗&lt;/p>
+&lt;p>就不能爱一个人&lt;/p>
+&lt;p>就不能把自己所受到的不公委屈不幸当作不知道从哪读到的故事说出来吗&lt;/p>
+&lt;p>就不能考上大学在哲学课上讨论康德的意识论吗&lt;/p>
+&lt;p>就不能站在太阳下和一朵花一样进行一会光合作用吗&lt;/p>
+&lt;p>就不能瞻仰凯撒大帝亦或是成吉思汗的雄才伟略吗&lt;/p>
+&lt;p>就不能做很多很多很酷的事，成为一个很酷的婊子吗&lt;/p>
+&lt;p>我是个令人讨厌的人&lt;/p>
+&lt;p>遗憾的是我很喜欢自己&lt;/p>
+&lt;p>非常喜欢&lt;/p>
+&lt;p>喜欢得很&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="风">
+&lt;a href="#%e9%a3%8e" class="header-anchor">#&lt;/a>
+风
+&lt;/h3>&lt;blockquote>
+&lt;p>黄昏的时候&lt;/p>
+&lt;p>我上了山坡&lt;/p>
+&lt;p>我在那里小心得给你带了一朵&lt;/p>
+&lt;p>蒲公英&lt;/p>
+&lt;p>它本属于晚风&lt;/p>
+&lt;p>我说服它老半天&lt;/p>
+&lt;p>要在你的眼前&lt;/p>
+&lt;p>吹开那独具的一朵&lt;/p>
+&lt;p>我喜欢看你笑的样子&lt;/p>
+&lt;p>你笑了&lt;/p>
+&lt;p>我也就笑了&lt;/p>
+&lt;p>我小心探着月光回程&lt;/p>
+&lt;p>躲过村里泥泞的水坑&lt;/p>
+&lt;p>我来到了你的窗下&lt;/p>
+&lt;p>白炽灯映照出了另一个女人&lt;/p>
+&lt;p>你笑得那么开心&lt;/p>
+&lt;p>我没敢哭&lt;/p>
+&lt;p>因为我说过&lt;/p>
+&lt;p>你开心&lt;/p>
+&lt;p>我就很开心&lt;/p>
+&lt;p>我把蒲公英拿了出来&lt;/p>
+&lt;p>哦&lt;/p>
+&lt;p>原来它早已散开在了小路上&lt;/p>
+&lt;p>我回过头&lt;/p>
+&lt;p>满天都是开着的伞&lt;/p>
+&lt;p>我稍觉遗憾&lt;/p>
+&lt;p>又无端欢喜&lt;/p>
+&lt;p>散吧 飞吧&lt;/p>
+&lt;p>我不能剥夺一朵花的浪漫&lt;/p>
+&lt;p>毕竟它这一生&lt;/p>
+&lt;p>就只为等这一阵风&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="淋雨">
+&lt;a href="#%e6%b7%8b%e9%9b%a8" class="header-anchor">#&lt;/a>
+淋雨
+&lt;/h3>&lt;blockquote>
+&lt;p>我想和你淋一场雨&lt;/p>
+&lt;p>寂灭人世间的喧嚣浮躁&lt;/p>
+&lt;p>让发梢被打湿&lt;/p>
+&lt;p>让伞睡个好觉&lt;/p>
+&lt;p>一直躲雨&lt;/p>
+&lt;p>雨会不会很难过？&lt;/p>
+&lt;p>让衣服紧贴肌肤&lt;/p>
+&lt;p>让路人不解又觉得可笑&lt;/p>
+&lt;p>你对我&lt;/p>
+&lt;p>就是这场雨的感觉&lt;/p>
+&lt;p>我们从没做过这样的傻事&lt;/p>
+&lt;p>大不了淋个感冒发烧&lt;/p>
+&lt;p>是啊&lt;/p>
+&lt;p>我的心质朴滚烫&lt;/p>
+&lt;p>这又算什么呢&lt;/p>
+&lt;p>不过是一场雨&lt;/p>
+&lt;p>这人间的雨天啊&lt;/p>
+&lt;p>我和你&lt;/p>
+&lt;p>淋一次&lt;/p>
+&lt;p>总归是少一次的&lt;/p>
+&lt;p>其实我为你带了伞&lt;/p>
+&lt;p>只是你&lt;/p>
+&lt;p>并不知道&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="回头">
+&lt;a href="#%e5%9b%9e%e5%a4%b4" class="header-anchor">#&lt;/a>
+回头
+&lt;/h3>&lt;blockquote>
+&lt;p>夜凉如水&lt;/p>
+&lt;p>月色尚浅&lt;/p>
+&lt;p>可是&lt;/p>
+&lt;p>在思念你的海里&lt;/p>
+&lt;p>我已经&lt;/p>
+&lt;p>回头无岸&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="鱼">
+&lt;a href="#%e9%b1%bc" class="header-anchor">#&lt;/a>
+鱼
+&lt;/h3>&lt;blockquote>
+&lt;p>来生做一条鱼&lt;/p>
+&lt;p>游在海里&lt;/p>
+&lt;p>人在这世间&lt;/p>
+&lt;p>就一定会受沉沦之苦&lt;/p>
+&lt;p>今夜游向爱琴海&lt;/p>
+&lt;p>鱼没有眼泪&lt;/p>
+&lt;p>海也不会咸&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="人间多美好">
+&lt;a href="#%e4%ba%ba%e9%97%b4%e5%a4%9a%e7%be%8e%e5%a5%bd" class="header-anchor">#&lt;/a>
+人间多美好
+&lt;/h3>&lt;p>致余秀华的诗和狗屁爱情。&lt;/p>
+&lt;blockquote>
+&lt;p>是啊&lt;/p>
+&lt;p>人间多美好&lt;/p>
+&lt;p>可你偏偏选择相信了爱情&lt;/p>
+&lt;p>何谓爱情&lt;/p>
+&lt;p>狗屁不通&lt;/p>
+&lt;p>是他的高大帅气&lt;/p>
+&lt;p>是他的身强体壮&lt;/p>
+&lt;p>是他在神龙架下酿成的蜂蜜&lt;/p>
+&lt;p>是他说爱你&lt;/p>
+&lt;p>然后给了你上百个耳光&lt;/p>
+&lt;p>你没鼓起勇气&lt;/p>
+&lt;p>说自己这一辈子总是辛苦&lt;/p>
+&lt;p>猜都不用猜&lt;/p>
+&lt;p>因为该死的倒产影响了智力&lt;/p>
+&lt;p>智力就是高考得他妈的一个741&lt;/p>
+&lt;p>哦&lt;/p>
+&lt;p>要倒过来&lt;/p>
+&lt;p>147&lt;/p>
+&lt;p>写字有什么用&lt;/p>
+&lt;p>诗又值不了几个买酒钱&lt;/p>
+&lt;p>领奖得了十万块&lt;/p>
+&lt;p>群众没觉得荣誉只是觉得可怜&lt;/p>
+&lt;p>记住&lt;/p>
+&lt;p>他们越笑&lt;/p>
+&lt;p>你要笑得越甜&lt;/p>
+&lt;p>用诗点缀人间&lt;/p>
+&lt;p>你喜欢过&lt;/p>
+&lt;p>爱过&lt;/p>
+&lt;p>对方可能把你压在过身下&lt;/p>
+&lt;p>唏嘘中带三分迷离&lt;/p>
+&lt;p>可他们始终配不上你的诗&lt;/p>
+&lt;p>人间是你的足尖点过的春水&lt;/p>
+&lt;p>人间多美好&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="星星">
+&lt;a href="#%e6%98%9f%e6%98%9f" class="header-anchor">#&lt;/a>
+星星
+&lt;/h3>&lt;blockquote>
+&lt;p>星星啊&lt;/p>
+&lt;p>为我闪烁&lt;/p>
+&lt;p>穿越无数光年&lt;/p>
+&lt;p>来爱我~&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="一滴水">
+&lt;a href="#%e4%b8%80%e6%bb%b4%e6%b0%b4" class="header-anchor">#&lt;/a>
+一滴水
+&lt;/h3>&lt;blockquote>
+&lt;p>每滴水都清澈冰凉&lt;/p>
+&lt;p>有的撒在了外面&lt;/p>
+&lt;p>有的蒸发到了空中&lt;/p>
+&lt;p>有的融入了血液&lt;/p>
+&lt;p>还有的赶不上命运的一瓢&lt;/p>
+&lt;p>依旧在不停地奔波&lt;/p>
+&lt;p>撒在外面的变成了春天&lt;/p>
+&lt;p>变成了鲜花遍地&lt;/p>
+&lt;p>蒸发到空中的变成了雨雪&lt;/p>
+&lt;p>写出来三万米高空的故事&lt;/p>
+&lt;p>融入了血液的&lt;/p>
+&lt;p>看着这个世界&lt;/p>
+&lt;p>鲜花 雨雪 爱恨&lt;/p>
+&lt;p>一切都存在 关注即是感受&lt;/p>
+&lt;p>还有的水滴&lt;/p>
+&lt;p>不知道这是不是命运&lt;/p>
+&lt;p>我前生不愿意做一滴水&lt;/p>
+&lt;p>我却总是蒸发 汇聚 循环&lt;/p>
+&lt;p>我却总是一滴水&lt;/p>
+&lt;p>我存在过吗&lt;/p>
+&lt;p>除了那些诗&lt;/p>
+&lt;p>我存在过吗&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="心事">
+&lt;a href="#%e5%bf%83%e4%ba%8b" class="header-anchor">#&lt;/a>
+心事
+&lt;/h3>&lt;blockquote>
+&lt;p>把心事装进瓶子&lt;/p>
+&lt;p>扔进海里&lt;/p>
+&lt;p>好了&lt;/p>
+&lt;p>这下大海知道了我的心事&lt;/p>
+&lt;p>我就又不是一个人&lt;/p>
+&lt;p>星星水母在海底读我的诗&lt;/p>
+&lt;p>下一秒&lt;/p>
+&lt;p>它出现在鲸鱼的肚子里&lt;/p>
+&lt;p>后来后来&lt;/p>
+&lt;p>过了大约54526386万年&lt;/p>
+&lt;p>又回到了你的手里&lt;/p>
+&lt;p>好吧&lt;/p>
+&lt;p>我承认&lt;/p>
+&lt;p>我又有了心事&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="海">
+&lt;a href="#%e6%b5%b7" class="header-anchor">#&lt;/a>
+海
+&lt;/h3>&lt;blockquote>
+&lt;p>内心澄澈湛蓝&lt;/p>
+&lt;p>大海无处不在&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="音乐盒里的小锡兵">
+&lt;a href="#%e9%9f%b3%e4%b9%90%e7%9b%92%e9%87%8c%e7%9a%84%e5%b0%8f%e9%94%a1%e5%85%b5" class="header-anchor">#&lt;/a>
+音乐盒里的小锡兵
+&lt;/h3>&lt;blockquote>
+&lt;p>我是音乐盒里的小人&lt;/p>
+&lt;p>等待着你来看&lt;/p>
+&lt;p>那是很久很久以前&lt;/p>
+&lt;p>现在这里漆黑一片&lt;/p>
+&lt;p>我不知道已经过了多少个夏天&lt;/p>
+&lt;p>那时候四周有音乐&lt;/p>
+&lt;p>阳光暖暖&lt;/p>
+&lt;p>日子慢慢又漫漫&lt;/p>
+&lt;p>后来我听到你在哭&lt;/p>
+&lt;p>我想安慰你&lt;/p>
+&lt;p>可我走不出这个盒子&lt;/p>
+&lt;p>我愿意一直旋转&lt;/p>
+&lt;p>为你旋转&lt;/p>
+&lt;p>为你唱歌&lt;/p>
+&lt;p>不再许让我停下来的心愿&lt;/p>
+&lt;p>我只是一个音乐盒里的小锡兵&lt;/p>
+&lt;p>我会给你讲故事&lt;/p>
+&lt;p>能不能&lt;/p>
+&lt;p>能不能用我&lt;/p>
+&lt;p>能不能用我不会念出来的诗&lt;/p>
+&lt;p>融化你的心事&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="轻浮">
+&lt;a href="#%e8%bd%bb%e6%b5%ae" class="header-anchor">#&lt;/a>
+轻浮
+&lt;/h3>&lt;blockquote>
+&lt;p>总有人要轻浮&lt;/p>
+&lt;p>让我开满一整个春天&lt;/p>
+&lt;p>故作浪漫&lt;/p>
+&lt;p>春天何在&lt;/p>
+&lt;p>我就叫春天&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="盲女">
+&lt;a href="#%e7%9b%b2%e5%a5%b3" class="header-anchor">#&lt;/a>
+盲女
+&lt;/h3>&lt;blockquote>
+&lt;p>她的眸子中&lt;/p>
+&lt;p>不曾倒映过星空&lt;/p>
+&lt;p>可身旁的他 在诗里&lt;/p>
+&lt;p>却念出过另一种更浩瀚的浪漫&lt;/p>
+&lt;p>后来&lt;/p>
+&lt;p>白天莫名变得短了&lt;/p>
+&lt;p>夜正好相反&lt;/p>
+&lt;p>他好久没来&lt;/p>
+&lt;p>她想着他在路上&lt;/p>
+&lt;p>担心路被秋天的叶子遮住了&lt;/p>
+&lt;p>她以前可喜欢秋天&lt;/p>
+&lt;p>凭感觉织就了一件毛衣&lt;/p>
+&lt;p>花了很久&lt;/p>
+&lt;p>情意绵绵&lt;/p>
+&lt;p>她猜他很喜欢&lt;/p>
+&lt;p>她把毛衣放在膝上&lt;/p>
+&lt;p>变凉又暖热&lt;/p>
+&lt;p>抚摸出了线头&lt;/p>
+&lt;p>院子里雪覆盖了胡枝子&lt;/p>
+&lt;p>她想着&lt;/p>
+&lt;p>你的世界变大了&lt;/p>
+&lt;p>我也自然而然得变得可有可无了&lt;/p>
+&lt;p>突然开怀得笑&lt;/p>
+&lt;p>盲眼流出咸咸的泪&lt;/p>
+&lt;p>毛衣小心叠好&lt;/p>
+&lt;p>她摸索着去晒月光&lt;/p>
+&lt;p>皎洁隐约地引导着她的小脑袋&lt;/p>
+&lt;p>她站了很久&lt;/p>
+&lt;p>站成了一树白玉兰&lt;/p>
+&lt;p>半夜落了雨&lt;/p>
+&lt;p>清晨，花瓣落了满地&lt;/p>
+&lt;p>温柔似雪&lt;/p>
+&lt;p>天空真得下起了雪&lt;/p>
+&lt;p>她做了一个好长的梦&lt;/p>
+&lt;p>在梦里她成了一个完整的姑娘&lt;/p>
+&lt;p>照着镜子 酒窝像花儿一样&lt;/p>
+&lt;p>她发现自己哭了&lt;/p>
+&lt;p>慌忙抹泪&lt;/p>
+&lt;p>却又弄花了妆&lt;/p>
+&lt;p>她拿出毛衣&lt;/p>
+&lt;p>橘色的色彩像霞晴&lt;/p>
+&lt;p>她突然委屈得抱紧自己&lt;/p>
+&lt;p>周围突然好冷&lt;/p>
+&lt;p>她不懂是这个世界不理解她&lt;/p>
+&lt;p>还是她不理解这个世界&lt;/p>
+&lt;p>风解开衣服&lt;/p>
+&lt;p>红玫瑰变白玫瑰&lt;/p>
+&lt;p>那么傻的世人&lt;/p>
+&lt;p>她用剪刀剪短了头发&lt;/p>
+&lt;p>割舍亦是加深&lt;/p>
+&lt;p>出岫的云从窗外飘过&lt;/p>
+&lt;p>情绪忽然明灭&lt;/p>
+&lt;p>她不小心划伤了自己&lt;/p>
+&lt;p>雪白的地板很适合殷红的花儿&lt;/p>
+&lt;p>一如繁夏&lt;/p>
+&lt;p>可现在是秋天&lt;/p>
+&lt;p>满地伤花在失去你的地方怒放&lt;/p>
+&lt;p>可你看不到吧&lt;/p>
+&lt;p>有了开始何所谓结局&lt;/p>
+&lt;p>她划在自己的手心&lt;/p>
+&lt;p>划在自己的乳房&lt;/p>
+&lt;p>划在自己的爱河里&lt;/p>
+&lt;p>爱和恨有时候是同一种东西&lt;/p>
+&lt;p>泪水在伤口上烧的很疼&lt;/p>
+&lt;p>但也有一种虚妄的快感&lt;/p>
+&lt;p>她成了个疯子&lt;/p>
+&lt;p>却想写诗&lt;/p>
+&lt;p>诗&lt;/p>
+&lt;p>她对着白纸读&lt;/p>
+&lt;p>孤单心事&lt;/p>
+&lt;p>她爱这个世界&lt;/p>
+&lt;p>一如昨日&lt;/p>
+&lt;p>唯独没有自己&lt;/p>
+&lt;p>这是一场梦&lt;/p>
+&lt;p>梦外的人还在睡&lt;/p>
+&lt;p>梦里的人却不愿醒&lt;/p>
+&lt;p>睡吧 让三月的风刮进四月&lt;/p>
+&lt;p>而你&lt;/p>
+&lt;p>你是人间四月天&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="白山茶">
+&lt;a href="#%e7%99%bd%e5%b1%b1%e8%8c%b6" class="header-anchor">#&lt;/a>
+白山茶
+&lt;/h3>&lt;blockquote>
+&lt;p>向村里的二流子&lt;/p>
+&lt;p>要一支烟&lt;/p>
+&lt;p>他很诧异 像我这样虚伪的人&lt;/p>
+&lt;p>从不这么出演&lt;/p>
+&lt;p>我用自己不多的时日&lt;/p>
+&lt;p>向月色&lt;/p>
+&lt;p>赊了一些勇气&lt;/p>
+&lt;p>他看着我 又突然稚嫩得笑&lt;/p>
+&lt;p>举杯邀月&lt;/p>
+&lt;p>就可以不用说话&lt;/p>
+&lt;p>我想今夜&lt;/p>
+&lt;p>能睡好了吧&lt;/p>
+&lt;p>啊&lt;/p>
+&lt;p>阳光啊 鲜花&lt;/p>
+&lt;p>迫不及待&lt;/p>
+&lt;p>想给你一个拥抱和吻&lt;/p>
+&lt;p>不得已&lt;/p>
+&lt;p>将启程提前&lt;/p>
+&lt;p>爱呀 爱啦 爱吧&lt;/p>
+&lt;p>爸爸啊&lt;/p>
+&lt;p>请不要再打我妈妈&lt;/p>
+&lt;p>妈妈啊&lt;/p>
+&lt;p>给你&lt;/p>
+&lt;p>给你这个&lt;/p>
+&lt;p>一朵 刚摘的&lt;/p>
+&lt;p>还带着露的 白山茶&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="太阳">
+&lt;a href="#%e5%a4%aa%e9%98%b3" class="header-anchor">#&lt;/a>
+太阳
+&lt;/h3>&lt;blockquote>
+&lt;p>太阳不灭&lt;/p>
+&lt;p>生命就不熄灭&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="路过">
+&lt;a href="#%e8%b7%af%e8%bf%87" class="header-anchor">#&lt;/a>
+路过
+&lt;/h3>&lt;blockquote>
+&lt;p>叶尖划开太阳光&lt;/p>
+&lt;p>温柔的缝隙&lt;/p>
+&lt;p>有风吹来&lt;/p>
+&lt;p>一切空净澄明&lt;/p>
+&lt;p>小猫眯着眼&lt;/p>
+&lt;p>沐浴着晴朗&lt;/p>
+&lt;p>你刚好路过&lt;/p>
+&lt;p>倏忽一下&lt;/p>
+&lt;p>像云捂住了天空的眼睛&lt;/p>
+&lt;p>别急 慢点 慢点&lt;/p>
+&lt;p>让我的心 找个地方藏&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="想">
+&lt;a href="#%e6%83%b3" class="header-anchor">#&lt;/a>
+想
+&lt;/h3>&lt;blockquote>
+&lt;p>看麦子时我睡在地里&lt;/p>
+&lt;p>月亮照我如照一口井&lt;/p>
+&lt;p>想你时我站在风中&lt;/p>
+&lt;p>闭上双眼如履薄梦&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="一路">
+&lt;a href="#%e4%b8%80%e8%b7%af" class="header-anchor">#&lt;/a>
+一路
+&lt;/h3>&lt;blockquote>
+&lt;p>早晨&lt;/p>
+&lt;p>是一只踩人的花鹿&lt;/p>
+&lt;p>野花与太阳&lt;/p>
+&lt;p>将我灼伤了&lt;/p>
+&lt;p>阡陌延伸好远&lt;/p>
+&lt;p>看不到尽头&lt;/p>
+&lt;p>灵魂飘忽&lt;/p>
+&lt;p>我呀&lt;/p>
+&lt;p>就这样&lt;/p>
+&lt;p>慢慢悠悠&lt;/p>
+&lt;p>我的心&lt;/p>
+&lt;p>和我一起&lt;/p>
+&lt;p>燃烧了一路&lt;/p>
+&lt;/blockquote></description></item><item><title>归档</title><link>https://pandy.cc/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://pandy.cc/archives/</guid><description/></item><item><title>关于</title><link>https://pandy.cc/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pandy.cc/%E5%85%B3%E4%BA%8E/</guid><description>&lt;p>这个人很懒，什么都没有留下。&lt;/p></description></item><item><title>链接</title><link>https://pandy.cc/%E9%93%BE%E6%8E%A5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pandy.cc/%E9%93%BE%E6%8E%A5/</guid><description/></item><item><title>搜索</title><link>https://pandy.cc/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pandy.cc/search/</guid><description/></item></channel></rss>
