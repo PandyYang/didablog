@@ -4,7 +4,8 @@
 &lt;h2 id="截图">
 &lt;a href="#%e6%88%aa%e5%9b%be" class="header-anchor">#&lt;/a>
 截图
-&lt;/h2>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b719e4a7594a8857c1d71ab57999ebd.png"
+&lt;/h2>&lt;p>你可以用手指捏合对图片进行缩放。&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b719e4a7594a8857c1d71ab57999ebd.png"
 loading="lazy"
 alt="b719e4a7594a8857c1d71ab57999ebd"
 >&lt;/p>
@@ -46,7 +47,8 @@ alt="f6ebafe8a532dc3e2b87a9c056f7dc3"
 &lt;/h2>&lt;ol>
 &lt;li>你需要有个Github账号，如果没有的话需要去注册一个。&lt;/li>
 &lt;/ol>
-&lt;p>​ https://github.com/&lt;/p>
+&lt;p>&lt;a class="link" href="https://github.com/" target="_blank" rel="noopener"
+>https://github.com/&lt;/a>&lt;/p>
 &lt;ol start="2">
 &lt;li>
 &lt;p>你需要打开这个项目，然后fork一下。&lt;/p>
