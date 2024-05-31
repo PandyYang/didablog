@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Pandy</title><link>https://pandy.cc/post/</link><description>Recent content in Posts on Pandy</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 31 May 2024 20:04:49 +0000</lastBuildDate><atom:link href="https://pandy.cc/post/index.xml" rel="self" type="application/rss+xml"/><item><title>奈飞、HBO、迪士尼等观影指南</title><link>https://pandy.cc/p/%E5%A5%88%E9%A3%9Ehbo%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AD%89%E8%A7%82%E5%BD%B1%E6%8C%87%E5%8D%97/</link><pubDate>Fri, 31 May 2024 20:04:49 +0000</pubDate><guid>https://pandy.cc/p/%E5%A5%88%E9%A3%9Ehbo%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AD%89%E8%A7%82%E5%BD%B1%E6%8C%87%E5%8D%97/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/20240531234215.png" alt="Featured image of post 奈飞、HBO、迪士尼等观影指南" />&lt;p>不知道你们平时都在看什么剧，在哪看剧？&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Pandy</title><link>https://pandy.cc/post/</link><description>Recent content in Posts on Pandy</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 01 Jun 2024 00:54:23 +0000</lastBuildDate><atom:link href="https://pandy.cc/post/index.xml" rel="self" type="application/rss+xml"/><item><title>将微信读书的笔记、划线等阅读记录同步至Notion</title><link>https://pandy.cc/p/%E5%B0%86%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E7%9A%84%E7%AC%94%E8%AE%B0%E5%88%92%E7%BA%BF%E7%AD%89%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95%E5%90%8C%E6%AD%A5%E8%87%B3notion/</link><pubDate>Sat, 01 Jun 2024 00:54:23 +0000</pubDate><guid>https://pandy.cc/p/%E5%B0%86%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E7%9A%84%E7%AC%94%E8%AE%B0%E5%88%92%E7%BA%BF%E7%AD%89%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95%E5%90%8C%E6%AD%A5%E8%87%B3notion/</guid><description>&lt;p>微信读书的用了六七年的时间，记录了好几万的笔记和划线，包括一些隐藏的和可见的，有时候想要有一个地方可以对这些笔记做一些管理，避免在记录完之后，就埋没在海量的记录中，很难有再次看见的机会，提取其中有价值的信息也是个问题。&lt;/p>
+&lt;p>在Github上闲逛的时候，发现一个好玩的东西，可以将微信读书的笔记同步至Notion。&lt;/p>
+&lt;p>除了笔记之外，还有比较详细的分类和阅读时间记录，感觉是挺好用的一个工具。&lt;/p>
+&lt;h2 id="截图">
+&lt;a href="#%e6%88%aa%e5%9b%be" class="header-anchor">#&lt;/a>
+截图
+&lt;/h2>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b719e4a7594a8857c1d71ab57999ebd.png"
+loading="lazy"
+alt="b719e4a7594a8857c1d71ab57999ebd"
+>&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cb18ba7c4b9ca1eb3efaf27abdb3c25.png"
+loading="lazy"
+alt="cb18ba7c4b9ca1eb3efaf27abdb3c25"
+>&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fbc5a03606001c0871dbdcf870bd864.png"
+loading="lazy"
+alt="fbc5a03606001c0871dbdcf870bd864"
+>&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5b31dcf9b09480d137f71f89710729.png"
+loading="lazy"
+alt="d5b31dcf9b09480d137f71f89710729"
+>&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ea48b64face9f0a71d565ea5d7c0fa.png"
+loading="lazy"
+alt="7ea48b64face9f0a71d565ea5d7c0fa"
+>&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8d66fbc5a209ad45c28e5a07adfb4b1.png"
+loading="lazy"
+alt="8d66fbc5a209ad45c28e5a07adfb4b1"
+>&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/82b84e10b16c6a7a6b5ea21e96d2d66.png"
+loading="lazy"
+alt="82b84e10b16c6a7a6b5ea21e96d2d66"
+>&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2d7af30cfde58e39fdbe150564392ad.png"
+loading="lazy"
+alt="2d7af30cfde58e39fdbe150564392ad"
+>&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f6ebafe8a532dc3e2b87a9c056f7dc3.png"
+loading="lazy"
+alt="f6ebafe8a532dc3e2b87a9c056f7dc3"
+>&lt;/p>
+&lt;h2 id="教程">
+&lt;a href="#%e6%95%99%e7%a8%8b" class="header-anchor">#&lt;/a>
+教程
+&lt;/h2>&lt;ol>
+&lt;li>你需要有个Github账号，如果没有的话需要去注册一个。&lt;/li>
+&lt;/ol>
+&lt;p>​ https://github.com/&lt;/p>
+&lt;ol start="2">
+&lt;li>
+&lt;p>你需要打开这个项目，然后fork一下。&lt;/p>
+&lt;p>&lt;a class="link" href="https://github.com/malinkang/weread2notion-pro" target="_blank" rel="noopener"
+>https://github.com/malinkang/weread2notion-pro&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fdf5b581028f6c9ee15fd2be15ff300.png"
+loading="lazy"
+alt="fdf5b581028f6c9ee15fd2be15ff300"
+>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>然后你需要根据这个教程配置一些东西&lt;/p>
+&lt;p>&lt;a class="link" href="https://mp.weixin.qq.com/s/Wif_pyb5L3WlLLlj7iIPYw" target="_blank" rel="noopener"
+>https://mp.weixin.qq.com/s/Wif_pyb5L3WlLLlj7iIPYw&lt;/a>&lt;/p>
+&lt;p>注意这个3做完，会有报错，这时候你要根据4修复一下。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>为了修复3的错误，你需要更新一些额外的配置&lt;/p>
+&lt;p>&lt;a class="link" href="https://mp.weixin.qq.com/s/7Vxip1Kjtn-QwWkQldGRxQ" target="_blank" rel="noopener"
+>https://mp.weixin.qq.com/s/7Vxip1Kjtn-QwWkQldGRxQ&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>原理是，用Git Action起了一个任务，每天定时去同步微信读书的数据，到Notion的模板里，所以我们才能看到这些数据！&lt;/p>
+&lt;p>是不是有点复杂~&lt;/p></description></item><item><title>奈飞、HBO、迪士尼等观影指南</title><link>https://pandy.cc/p/%E5%A5%88%E9%A3%9Ehbo%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AD%89%E8%A7%82%E5%BD%B1%E6%8C%87%E5%8D%97/</link><pubDate>Fri, 31 May 2024 20:04:49 +0000</pubDate><guid>https://pandy.cc/p/%E5%A5%88%E9%A3%9Ehbo%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AD%89%E8%A7%82%E5%BD%B1%E6%8C%87%E5%8D%97/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/20240531234215.png" alt="Featured image of post 奈飞、HBO、迪士尼等观影指南" />&lt;p>不知道你们平时都在看什么剧，在哪看剧？&lt;/p>
 &lt;p>本人喜欢看美剧，韩剧之类的。&lt;/p>
 &lt;p>这篇文章，来说下自己平时怎么购买国外这些付费网站的会员，怎么科学上网。&lt;/p>
 &lt;p>盗版的视频也有，有钱的支持正版，没钱的看看盗版，主要是盗版不清晰，也可能会有删减，而且不能及时更新。&lt;/p>
@@ -492,6 +564,7 @@ alt="51d69472201af606c82ffde684c21ea"
 &lt;li>苹果备忘录&lt;/li>
 &lt;li>Notability&lt;/li>
 &lt;li>飞书&lt;/li>
+&lt;li>Notion&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -522,6 +595,7 @@ alt="51d69472201af606c82ffde684c21ea"
 &lt;p>之前给作者提过一个i18n的bug，作者回复了，但是没修，这是让人很遗憾的。&lt;/p>
 &lt;p>语雀我也用过一段时间，但是相比于语雀，我觉得还不如用飞书，飞书直接支持客户端上传一些pdf文件之类的，且打开速度比语雀要快，服务器崩溃次数比语雀要少，语雀更多地是面向企业用户的，里面有一些知识库的概念，权限管控也做得比较完善，我现在主要是去别人得知识库查看文件，自己很少在上面做笔记了，因为有时候会觉得记笔记是一件很私人的事情，其实读书也是。&lt;/p>
 &lt;p>做笔记的好处就是可以整理自己的思维，总结知识，尤其是要面对知识体系非常庞大的情况，做做笔记，这也是成长的过程，我喜欢记录。&lt;/p>
+&lt;p>Notion的功能非常强大，可玩性很强，但是没有中文的客户端，现在正在试用，可以看下这篇文章《将微信读书的笔记、划线等阅读记录同步至Notion》。&lt;/p>
 &lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7db38dee3a885e86f935372a975d34e.png"
 loading="lazy"
 alt="OneNote"
