@@ -225,10 +225,13 @@
 &lt;p>会不会&lt;/p>
 &lt;p>天空和海都听得见&lt;/p>
 &lt;/blockquote>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cdb2b8554a14cc4eec2ee9950dd66f1.jpg"
-loading="lazy"
-alt="早安"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cdb2b8554a14cc4eec2ee9950dd66f1.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cdb2b8554a14cc4eec2ee9950dd66f1.jpg" alt="早安" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h3 id="问">
 &lt;a href="#%e9%97%ae" class="header-anchor">#&lt;/a>
 问

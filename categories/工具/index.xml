@@ -4,43 +4,69 @@
 &lt;h2 id="截图">
 &lt;a href="#%e6%88%aa%e5%9b%be" class="header-anchor">#&lt;/a>
 截图
-&lt;/h2>&lt;p>你可以用手指捏合对图片进行缩放。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b719e4a7594a8857c1d71ab57999ebd.png"
-loading="lazy"
-alt="b719e4a7594a8857c1d71ab57999ebd"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cb18ba7c4b9ca1eb3efaf27abdb3c25.png"
-loading="lazy"
-alt="cb18ba7c4b9ca1eb3efaf27abdb3c25"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fbc5a03606001c0871dbdcf870bd864.png"
-loading="lazy"
-alt="fbc5a03606001c0871dbdcf870bd864"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5b31dcf9b09480d137f71f89710729.png"
-loading="lazy"
-alt="d5b31dcf9b09480d137f71f89710729"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ea48b64face9f0a71d565ea5d7c0fa.png"
-loading="lazy"
-alt="7ea48b64face9f0a71d565ea5d7c0fa"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8d66fbc5a209ad45c28e5a07adfb4b1.png"
-loading="lazy"
-alt="8d66fbc5a209ad45c28e5a07adfb4b1"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/82b84e10b16c6a7a6b5ea21e96d2d66.png"
-loading="lazy"
-alt="82b84e10b16c6a7a6b5ea21e96d2d66"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2d7af30cfde58e39fdbe150564392ad.png"
-loading="lazy"
-alt="2d7af30cfde58e39fdbe150564392ad"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f6ebafe8a532dc3e2b87a9c056f7dc3.png"
-loading="lazy"
-alt="f6ebafe8a532dc3e2b87a9c056f7dc3"
->&lt;/p>
+&lt;/h2>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b719e4a7594a8857c1d71ab57999ebd.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b719e4a7594a8857c1d71ab57999ebd.png" alt="b719e4a7594a8857c1d71ab57999ebd" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cb18ba7c4b9ca1eb3efaf27abdb3c25.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cb18ba7c4b9ca1eb3efaf27abdb3c25.png" alt="cb18ba7c4b9ca1eb3efaf27abdb3c25" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fbc5a03606001c0871dbdcf870bd864.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fbc5a03606001c0871dbdcf870bd864.png" alt="fbc5a03606001c0871dbdcf870bd864" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5b31dcf9b09480d137f71f89710729.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5b31dcf9b09480d137f71f89710729.png" alt="d5b31dcf9b09480d137f71f89710729" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ea48b64face9f0a71d565ea5d7c0fa.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ea48b64face9f0a71d565ea5d7c0fa.png" alt="7ea48b64face9f0a71d565ea5d7c0fa" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8d66fbc5a209ad45c28e5a07adfb4b1.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8d66fbc5a209ad45c28e5a07adfb4b1.png" alt="8d66fbc5a209ad45c28e5a07adfb4b1" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/82b84e10b16c6a7a6b5ea21e96d2d66.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/82b84e10b16c6a7a6b5ea21e96d2d66.png" alt="82b84e10b16c6a7a6b5ea21e96d2d66" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2d7af30cfde58e39fdbe150564392ad.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2d7af30cfde58e39fdbe150564392ad.png" alt="2d7af30cfde58e39fdbe150564392ad" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f6ebafe8a532dc3e2b87a9c056f7dc3.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f6ebafe8a532dc3e2b87a9c056f7dc3.png" alt="f6ebafe8a532dc3e2b87a9c056f7dc3" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="教程">
 &lt;a href="#%e6%95%99%e7%a8%8b" class="header-anchor">#&lt;/a>
 教程
@@ -54,10 +80,13 @@ alt="f6ebafe8a532dc3e2b87a9c056f7dc3"
 &lt;p>你需要打开这个项目，然后fork一下。&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/malinkang/weread2notion-pro" target="_blank" rel="noopener"
 >https://github.com/malinkang/weread2notion-pro&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fdf5b581028f6c9ee15fd2be15ff300.png"
-loading="lazy"
-alt="fdf5b581028f6c9ee15fd2be15ff300"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fdf5b581028f6c9ee15fd2be15ff300.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fdf5b581028f6c9ee15fd2be15ff300.png" alt="fdf5b581028f6c9ee15fd2be15ff300" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>然后你需要根据这个教程配置一些东西&lt;/p>
@@ -98,14 +127,20 @@ alt="fdf5b581028f6c9ee15fd2be15ff300"
 &lt;p>你需要注意，你的VPN需要能切换到对应的国家或地区，才能观看，否则会被提示此区域不可用，下面我会介绍一个梯子，放心，没有什么推广费，也没有任何广告，我不屑于这些。&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531201420762.png"
-loading="lazy"
-alt="image-20240531201420762"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/892ea5c0eeacca859e98c8be623b2cc.png"
-loading="lazy"
-alt="892ea5c0eeacca859e98c8be623b2cc"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531201420762.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531201420762.png" alt="image-20240531201420762" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/892ea5c0eeacca859e98c8be623b2cc.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/892ea5c0eeacca859e98c8be623b2cc.png" alt="892ea5c0eeacca859e98c8be623b2cc" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="梯子">
 &lt;a href="#%e6%a2%af%e5%ad%90" class="header-anchor">#&lt;/a>
 梯子
@@ -116,10 +151,13 @@ alt="892ea5c0eeacca859e98c8be623b2cc"
 &lt;p>&lt;a class="link" href="https://console.xenolink.net/#/dashboard" target="_blank" rel="noopener"
 >https://console.xenolink.net/#/dashboard&lt;/a>&lt;/p>
 &lt;p>注意：你要是打不开这个链接，请更换网络重试，如果还是打不开，请留言。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531202621267.png"
-loading="lazy"
-alt="image-20240531202621267"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531202621267.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531202621267.png" alt="image-20240531202621267" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>几十块钱可以买到一个链接。&lt;/p>
 &lt;p>有了链接，你需要有个代理工具，来和国际互联网通信。&lt;/p>
 &lt;ul>
@@ -147,39 +185,56 @@ alt="image-20240531202621267"
 &lt;/ul>
 &lt;p>如果你打不开上面的连接，请更换网络重试，如果还是不行，留言。&lt;/p>
 &lt;p>最后windows上的clash大概是这个样子。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203109194.png"
-loading="lazy"
-alt="image-20240531203109194"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203109194.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203109194.png" alt="image-20240531203109194" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>​ 开启系统代理即可。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203154761.png"
-loading="lazy"
-alt="image-20240531203154761"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203154761.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203154761.png" alt="image-20240531203154761" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="观影">
 &lt;a href="#%e8%a7%82%e5%bd%b1" class="header-anchor">#&lt;/a>
 观影
 &lt;/h2>&lt;h3 id="奈飞">
 &lt;a href="#%e5%a5%88%e9%a3%9e" class="header-anchor">#&lt;/a>
 奈飞
-&lt;/h3>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/01f0f1e9c6f32b3714bb1584b827c72.png"
-loading="lazy"
-alt="01f0f1e9c6f32b3714bb1584b827c72"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9cbae53f4b57194a1fcb57acb3db322.png"
-loading="lazy"
-alt="9cbae53f4b57194a1fcb57acb3db322"
->&lt;/p>
+&lt;/h3>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/01f0f1e9c6f32b3714bb1584b827c72.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/01f0f1e9c6f32b3714bb1584b827c72.png" alt="01f0f1e9c6f32b3714bb1584b827c72" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9cbae53f4b57194a1fcb57acb3db322.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9cbae53f4b57194a1fcb57acb3db322.png" alt="9cbae53f4b57194a1fcb57acb3db322" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h3 id="hbo">
 &lt;a href="#hbo" class="header-anchor">#&lt;/a>
 HBO
-&lt;/h3>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3ff828513c65e7d58e22f6c904b3fa6.png"
-loading="lazy"
-alt="3ff828513c65e7d58e22f6c904b3fa6"
->&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b46bb62cb0d334b4765529410497050.png"
-loading="lazy"
-alt="b46bb62cb0d334b4765529410497050"
->&lt;/p>
+&lt;/h3>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3ff828513c65e7d58e22f6c904b3fa6.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3ff828513c65e7d58e22f6c904b3fa6.png" alt="3ff828513c65e7d58e22f6c904b3fa6" />
+&lt;/a>
+&lt;/div>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b46bb62cb0d334b4765529410497050.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b46bb62cb0d334b4765529410497050.png" alt="b46bb62cb0d334b4765529410497050" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>一起来刷剧吧~&lt;/p></description></item><item><title>做笔记</title><link>https://pandy.cc/p/%E5%81%9A%E7%AC%94%E8%AE%B0/</link><pubDate>Thu, 16 May 2024 15:12:17 +0000</pubDate><guid>https://pandy.cc/p/%E5%81%9A%E7%AC%94%E8%AE%B0/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/43bbc077c30beea5aa5b28965deb61a.jpg" alt="Featured image of post 做笔记" />&lt;p>作为一个需要常年记录笔记的重度用户，我一直在寻找一个比较完美的记笔记的方案，理想中的情况应该具备以下的功能：&lt;/p>
 &lt;ol>
 &lt;li>
@@ -243,26 +298,43 @@ alt="b46bb62cb0d334b4765529410497050"
 &lt;p>语雀我也用过一段时间，但是相比于语雀，我觉得还不如用飞书，飞书直接支持客户端上传一些pdf文件之类的，且打开速度比语雀要快，服务器崩溃次数比语雀要少，语雀更多地是面向企业用户的，里面有一些知识库的概念，权限管控也做得比较完善，我现在主要是去别人得知识库查看文件，自己很少在上面做笔记了，因为有时候会觉得记笔记是一件很私人的事情，其实读书也是。&lt;/p>
 &lt;p>做笔记的好处就是可以整理自己的思维，总结知识，尤其是要面对知识体系非常庞大的情况，做做笔记，这也是成长的过程，我喜欢记录。&lt;/p>
 &lt;p>Notion的功能非常强大，可玩性很强，但是没有中文的客户端，现在正在试用，可以看下这篇文章《将微信读书的笔记、划线等阅读记录同步至Notion》。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7db38dee3a885e86f935372a975d34e.png"
-loading="lazy"
-alt="OneNote"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/bd7aec9100850e75d4b10297f1b6089.png"
-loading="lazy"
-alt="语雀"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/eadd6150d4e7b2b7dd5f360cf9e5a24.png"
-loading="lazy"
-alt="iCloud"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a19ad54b60670b08119c602d7b29731.png"
-loading="lazy"
-alt="Notability"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9bf70eebe57ebe34e259abaf29c20cd.jpg"
-loading="lazy"
-alt="9bf70eebe57ebe34e259abaf29c20cd"
->&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/43bbc077c30beea5aa5b28965deb61a.jpg"
-loading="lazy"
-alt="笔记本"
->&lt;/p></description></item></channel></rss>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7db38dee3a885e86f935372a975d34e.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7db38dee3a885e86f935372a975d34e.png" alt="OneNote" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/bd7aec9100850e75d4b10297f1b6089.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/bd7aec9100850e75d4b10297f1b6089.png" alt="语雀" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/eadd6150d4e7b2b7dd5f360cf9e5a24.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/eadd6150d4e7b2b7dd5f360cf9e5a24.png" alt="iCloud" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a19ad54b60670b08119c602d7b29731.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a19ad54b60670b08119c602d7b29731.png" alt="Notability" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9bf70eebe57ebe34e259abaf29c20cd.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9bf70eebe57ebe34e259abaf29c20cd.jpg" alt="9bf70eebe57ebe34e259abaf29c20cd" />
+&lt;/a>
+&lt;/div>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/43bbc077c30beea5aa5b28965deb61a.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/43bbc077c30beea5aa5b28965deb61a.jpg" alt="笔记本" />
+&lt;/a>
+&lt;/div>
+&lt;/p></description></item></channel></rss>

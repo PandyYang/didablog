@@ -4,43 +4,69 @@
 &lt;h2 id="截图">
 &lt;a href="#%e6%88%aa%e5%9b%be" class="header-anchor">#&lt;/a>
 截图
-&lt;/h2>&lt;p>你可以用手指捏合对图片进行缩放。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b719e4a7594a8857c1d71ab57999ebd.png"
-loading="lazy"
-alt="b719e4a7594a8857c1d71ab57999ebd"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cb18ba7c4b9ca1eb3efaf27abdb3c25.png"
-loading="lazy"
-alt="cb18ba7c4b9ca1eb3efaf27abdb3c25"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fbc5a03606001c0871dbdcf870bd864.png"
-loading="lazy"
-alt="fbc5a03606001c0871dbdcf870bd864"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5b31dcf9b09480d137f71f89710729.png"
-loading="lazy"
-alt="d5b31dcf9b09480d137f71f89710729"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ea48b64face9f0a71d565ea5d7c0fa.png"
-loading="lazy"
-alt="7ea48b64face9f0a71d565ea5d7c0fa"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8d66fbc5a209ad45c28e5a07adfb4b1.png"
-loading="lazy"
-alt="8d66fbc5a209ad45c28e5a07adfb4b1"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/82b84e10b16c6a7a6b5ea21e96d2d66.png"
-loading="lazy"
-alt="82b84e10b16c6a7a6b5ea21e96d2d66"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2d7af30cfde58e39fdbe150564392ad.png"
-loading="lazy"
-alt="2d7af30cfde58e39fdbe150564392ad"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f6ebafe8a532dc3e2b87a9c056f7dc3.png"
-loading="lazy"
-alt="f6ebafe8a532dc3e2b87a9c056f7dc3"
->&lt;/p>
+&lt;/h2>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b719e4a7594a8857c1d71ab57999ebd.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b719e4a7594a8857c1d71ab57999ebd.png" alt="b719e4a7594a8857c1d71ab57999ebd" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cb18ba7c4b9ca1eb3efaf27abdb3c25.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cb18ba7c4b9ca1eb3efaf27abdb3c25.png" alt="cb18ba7c4b9ca1eb3efaf27abdb3c25" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fbc5a03606001c0871dbdcf870bd864.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fbc5a03606001c0871dbdcf870bd864.png" alt="fbc5a03606001c0871dbdcf870bd864" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5b31dcf9b09480d137f71f89710729.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5b31dcf9b09480d137f71f89710729.png" alt="d5b31dcf9b09480d137f71f89710729" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ea48b64face9f0a71d565ea5d7c0fa.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ea48b64face9f0a71d565ea5d7c0fa.png" alt="7ea48b64face9f0a71d565ea5d7c0fa" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8d66fbc5a209ad45c28e5a07adfb4b1.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8d66fbc5a209ad45c28e5a07adfb4b1.png" alt="8d66fbc5a209ad45c28e5a07adfb4b1" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/82b84e10b16c6a7a6b5ea21e96d2d66.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/82b84e10b16c6a7a6b5ea21e96d2d66.png" alt="82b84e10b16c6a7a6b5ea21e96d2d66" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2d7af30cfde58e39fdbe150564392ad.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2d7af30cfde58e39fdbe150564392ad.png" alt="2d7af30cfde58e39fdbe150564392ad" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f6ebafe8a532dc3e2b87a9c056f7dc3.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f6ebafe8a532dc3e2b87a9c056f7dc3.png" alt="f6ebafe8a532dc3e2b87a9c056f7dc3" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="教程">
 &lt;a href="#%e6%95%99%e7%a8%8b" class="header-anchor">#&lt;/a>
 教程
@@ -54,10 +80,13 @@ alt="f6ebafe8a532dc3e2b87a9c056f7dc3"
 &lt;p>你需要打开这个项目，然后fork一下。&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/malinkang/weread2notion-pro" target="_blank" rel="noopener"
 >https://github.com/malinkang/weread2notion-pro&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fdf5b581028f6c9ee15fd2be15ff300.png"
-loading="lazy"
-alt="fdf5b581028f6c9ee15fd2be15ff300"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fdf5b581028f6c9ee15fd2be15ff300.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fdf5b581028f6c9ee15fd2be15ff300.png" alt="fdf5b581028f6c9ee15fd2be15ff300" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>然后你需要根据这个教程配置一些东西&lt;/p>
@@ -98,14 +127,20 @@ alt="fdf5b581028f6c9ee15fd2be15ff300"
 &lt;p>你需要注意，你的VPN需要能切换到对应的国家或地区，才能观看，否则会被提示此区域不可用，下面我会介绍一个梯子，放心，没有什么推广费，也没有任何广告，我不屑于这些。&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531201420762.png"
-loading="lazy"
-alt="image-20240531201420762"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/892ea5c0eeacca859e98c8be623b2cc.png"
-loading="lazy"
-alt="892ea5c0eeacca859e98c8be623b2cc"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531201420762.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531201420762.png" alt="image-20240531201420762" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/892ea5c0eeacca859e98c8be623b2cc.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/892ea5c0eeacca859e98c8be623b2cc.png" alt="892ea5c0eeacca859e98c8be623b2cc" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="梯子">
 &lt;a href="#%e6%a2%af%e5%ad%90" class="header-anchor">#&lt;/a>
 梯子
@@ -116,10 +151,13 @@ alt="892ea5c0eeacca859e98c8be623b2cc"
 &lt;p>&lt;a class="link" href="https://console.xenolink.net/#/dashboard" target="_blank" rel="noopener"
 >https://console.xenolink.net/#/dashboard&lt;/a>&lt;/p>
 &lt;p>注意：你要是打不开这个链接，请更换网络重试，如果还是打不开，请留言。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531202621267.png"
-loading="lazy"
-alt="image-20240531202621267"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531202621267.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531202621267.png" alt="image-20240531202621267" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>几十块钱可以买到一个链接。&lt;/p>
 &lt;p>有了链接，你需要有个代理工具，来和国际互联网通信。&lt;/p>
 &lt;ul>
@@ -147,39 +185,56 @@ alt="image-20240531202621267"
 &lt;/ul>
 &lt;p>如果你打不开上面的连接，请更换网络重试，如果还是不行，留言。&lt;/p>
 &lt;p>最后windows上的clash大概是这个样子。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203109194.png"
-loading="lazy"
-alt="image-20240531203109194"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203109194.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203109194.png" alt="image-20240531203109194" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>​ 开启系统代理即可。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203154761.png"
-loading="lazy"
-alt="image-20240531203154761"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203154761.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240531203154761.png" alt="image-20240531203154761" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="观影">
 &lt;a href="#%e8%a7%82%e5%bd%b1" class="header-anchor">#&lt;/a>
 观影
 &lt;/h2>&lt;h3 id="奈飞">
 &lt;a href="#%e5%a5%88%e9%a3%9e" class="header-anchor">#&lt;/a>
 奈飞
-&lt;/h3>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/01f0f1e9c6f32b3714bb1584b827c72.png"
-loading="lazy"
-alt="01f0f1e9c6f32b3714bb1584b827c72"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9cbae53f4b57194a1fcb57acb3db322.png"
-loading="lazy"
-alt="9cbae53f4b57194a1fcb57acb3db322"
->&lt;/p>
+&lt;/h3>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/01f0f1e9c6f32b3714bb1584b827c72.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/01f0f1e9c6f32b3714bb1584b827c72.png" alt="01f0f1e9c6f32b3714bb1584b827c72" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9cbae53f4b57194a1fcb57acb3db322.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9cbae53f4b57194a1fcb57acb3db322.png" alt="9cbae53f4b57194a1fcb57acb3db322" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h3 id="hbo">
 &lt;a href="#hbo" class="header-anchor">#&lt;/a>
 HBO
-&lt;/h3>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3ff828513c65e7d58e22f6c904b3fa6.png"
-loading="lazy"
-alt="3ff828513c65e7d58e22f6c904b3fa6"
->&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b46bb62cb0d334b4765529410497050.png"
-loading="lazy"
-alt="b46bb62cb0d334b4765529410497050"
->&lt;/p>
+&lt;/h3>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3ff828513c65e7d58e22f6c904b3fa6.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3ff828513c65e7d58e22f6c904b3fa6.png" alt="3ff828513c65e7d58e22f6c904b3fa6" />
+&lt;/a>
+&lt;/div>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b46bb62cb0d334b4765529410497050.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b46bb62cb0d334b4765529410497050.png" alt="b46bb62cb0d334b4765529410497050" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>一起来刷剧吧~&lt;/p></description></item><item><title>几首小诗</title><link>https://pandy.cc/p/%E5%87%A0%E9%A6%96%E5%B0%8F%E8%AF%97/</link><pubDate>Fri, 31 May 2024 19:51:07 +0000</pubDate><guid>https://pandy.cc/p/%E5%87%A0%E9%A6%96%E5%B0%8F%E8%AF%97/</guid><description>&lt;h3 id="我的麦子黄了">
 &lt;a href="#%e6%88%91%e7%9a%84%e9%ba%a6%e5%ad%90%e9%bb%84%e4%ba%86" class="header-anchor">#&lt;/a>
 我的麦子黄了
@@ -320,192 +375,331 @@ alt="b46bb62cb0d334b4765529410497050"
 &lt;p>会很悲观吗？&lt;/p>
 &lt;p>可不期待，自然不会落空。&lt;/p>
 &lt;p>但人又怎么会轻易那么理性？奋不顾身有时候竟也是活着的乐趣所在。&lt;/p>
-&lt;p>答应我，跃入银河。&lt;/p></description></item><item><title>山西</title><link>https://pandy.cc/p/%E5%B1%B1%E8%A5%BF/</link><pubDate>Tue, 21 May 2024 13:11:43 +0000</pubDate><guid>https://pandy.cc/p/%E5%B1%B1%E8%A5%BF/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/97a2da420345fec0dcfe55bd023dd53.jpg" alt="Featured image of post 山西" />&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/81a7c3e02487064101727cb3848822f.jpg"
-loading="lazy"
-alt="81a7c3e02487064101727cb3848822f"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/ed587486fadaed08fff74547f5ce81a.jpg"
-loading="lazy"
-alt="ed587486fadaed08fff74547f5ce81a"
->&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8f363fb459fd759d05581517b363876.jpg"
-loading="lazy"
-alt="8f363fb459fd759d05581517b363876"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/23012fa2295437c9f1bec15b7b5c806.jpg"
-loading="lazy"
-alt="23012fa2295437c9f1bec15b7b5c806"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/bcb72f1cdf2c845af3a2199409fee2e.jpg"
-loading="lazy"
-alt="bcb72f1cdf2c845af3a2199409fee2e"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9cad2cbf4c1ae0ec42ccb629cb156c5.jpg"
-loading="lazy"
-alt="9cad2cbf4c1ae0ec42ccb629cb156c5"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/c028f7b4444d379d996b44967ee47ac.jpg"
-loading="lazy"
-alt="c028f7b4444d379d996b44967ee47ac"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/6935318838ccc454220ed0ed24afad2.jpg"
-loading="lazy"
-alt="6935318838ccc454220ed0ed24afad2"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d4b1b362e053154fcbed29c521f4c67.jpg"
-loading="lazy"
-alt="d4b1b362e053154fcbed29c521f4c67"
->&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f03feb20e76f194646d24715f9ce7e6.jpg"
-loading="lazy"
-alt="f03feb20e76f194646d24715f9ce7e6"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/99a94967c5bb4eb0fd12c9b6135ff24.jpg"
-loading="lazy"
-alt="99a94967c5bb4eb0fd12c9b6135ff24"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/4e0694ebb52b2c49bdb2e92b010d4bb.jpg"
-loading="lazy"
-alt="4e0694ebb52b2c49bdb2e92b010d4bb"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/798ee79ce172a927eddce2f5dd14498.jpg"
-loading="lazy"
-alt="798ee79ce172a927eddce2f5dd14498"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7d30835c76524eb01138c759b0a3f86.jpg"
-loading="lazy"
-alt="7d30835c76524eb01138c759b0a3f86"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b73d7df5e6d05eddae4b88368f483d3.jpg"
-loading="lazy"
-alt="b73d7df5e6d05eddae4b88368f483d3"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a285d971f77f965d29d989efe5f8498.jpg"
-loading="lazy"
-alt="a285d971f77f965d29d989efe5f8498"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/6b380a9c501b8da282a3c5fe75db6cd.jpg"
-loading="lazy"
-alt="6b380a9c501b8da282a3c5fe75db6cd"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/97a2da420345fec0dcfe55bd023dd53.jpg"
-loading="lazy"
-alt="97a2da420345fec0dcfe55bd023dd53"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d50a12fbec69c2e4d35140cfa11c022.jpg"
-loading="lazy"
-alt="d50a12fbec69c2e4d35140cfa11c022"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/e4f68b11bf7ec70045def58dd698352.jpg"
-loading="lazy"
-alt="e4f68b11bf7ec70045def58dd698352"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/533cd2ad2fbbaa1ed4d511e590abf98.jpg"
-loading="lazy"
-alt="533cd2ad2fbbaa1ed4d511e590abf98"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a6810fadaebdc4fe1061cc252ef3747.jpg"
-loading="lazy"
-alt="a6810fadaebdc4fe1061cc252ef3747"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3a96d2756e14fc5a07414b47c34c0b5.jpg"
-loading="lazy"
-alt="3a96d2756e14fc5a07414b47c34c0b5"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/78470368c625d7b7aaa1d6524deaef8.jpg"
-loading="lazy"
-alt="78470368c625d7b7aaa1d6524deaef8"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d454e66327957ec0acbda91046c0b6c.jpg"
-loading="lazy"
-alt="d454e66327957ec0acbda91046c0b6c"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a66a836dc3a0e8f96a897737df7bdaa.jpg"
-loading="lazy"
-alt="a66a836dc3a0e8f96a897737df7bdaa"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/72c25194241a9e518f2e71024ef8683.jpg"
-loading="lazy"
-alt="72c25194241a9e518f2e71024ef8683"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3a07860911b0d2251936e14427f0719.jpg"
-loading="lazy"
-alt="3a07860911b0d2251936e14427f0719"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/ca8edc514d2e109b631365a490cebc5.jpg"
-loading="lazy"
-alt="ca8edc514d2e109b631365a490cebc5"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f592711e6fea59367d4e14f7f708bd8.jpg"
-loading="lazy"
-alt="f592711e6fea59367d4e14f7f708bd8"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ee36192ee3b29abf680ae510c65303.jpg"
-loading="lazy"
-alt="7ee36192ee3b29abf680ae510c65303"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/81b59f4993eb1dde1e64918ed5b5b56.jpg"
-loading="lazy"
-alt="81b59f4993eb1dde1e64918ed5b5b56"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/798bbe83a89e3ffd55146164f64a899.jpg"
-loading="lazy"
-alt="798bbe83a89e3ffd55146164f64a899"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d86b0f11ac53e042f158bf253f4a023.jpg"
-loading="lazy"
-alt="d86b0f11ac53e042f158bf253f4a023"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fa98602bddc7e622a3f2a52c98c4f58.jpg"
-loading="lazy"
-alt="fa98602bddc7e622a3f2a52c98c4f58"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a04f186132dc24daec65d9e19137fe4.jpg"
-loading="lazy"
-alt="a04f186132dc24daec65d9e19137fe4"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/0f9525a48008c09ce9cc8b67b87f9ed.jpg"
-loading="lazy"
-alt="0f9525a48008c09ce9cc8b67b87f9ed"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/290402a7ddf7dbcb5b0d84a66e174cb.jpg"
-loading="lazy"
-alt="290402a7ddf7dbcb5b0d84a66e174cb"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a4aa4e34f314967c6ccb077e3278249.jpg"
-loading="lazy"
-alt="a4aa4e34f314967c6ccb077e3278249"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/c605aa1ff218e1c1b9e07226da01719.jpg"
-loading="lazy"
-alt="c605aa1ff218e1c1b9e07226da01719"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f211772cd816aa18935ee471d263c87.jpg"
-loading="lazy"
-alt="f211772cd816aa18935ee471d263c87"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/84f176d0cbdaa0bf249531348b512b2.jpg"
-loading="lazy"
-alt="84f176d0cbdaa0bf249531348b512b2"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/683959b3fcf96a73b0b89419ebf053e.jpg"
-loading="lazy"
-alt="683959b3fcf96a73b0b89419ebf053e"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a6d068f50512c8258b92e7e182a7f59.jpg"
-loading="lazy"
-alt="a6d068f50512c8258b92e7e182a7f59"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2a812f4da0ae814c47a51317dbb0c5f.jpg"
-loading="lazy"
-alt="2a812f4da0ae814c47a51317dbb0c5f"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f405c8650e2333dad52c36917c3b9ad.jpg"
-loading="lazy"
-alt="f405c8650e2333dad52c36917c3b9ad"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9e1792c254d72ef76c049bcae291779.jpg"
-loading="lazy"
-alt="9e1792c254d72ef76c049bcae291779"
->&lt;/p></description></item><item><title>在路上</title><link>https://pandy.cc/p/%E5%9C%A8%E8%B7%AF%E4%B8%8A/</link><pubDate>Sat, 18 May 2024 00:41:11 +0000</pubDate><guid>https://pandy.cc/p/%E5%9C%A8%E8%B7%AF%E4%B8%8A/</guid><description>&lt;p>20多年前，在我很小的时候，每每和爷爷奶奶去新疆，姑妈那里的时候，也是如此，在硬卧火车里，经过两日两夜，从陕西咸阳开往新疆乌鲁木齐，再转车到达奎屯…&lt;/p>
+&lt;p>答应我，跃入银河。&lt;/p></description></item><item><title>山西</title><link>https://pandy.cc/p/%E5%B1%B1%E8%A5%BF/</link><pubDate>Tue, 21 May 2024 13:11:43 +0000</pubDate><guid>https://pandy.cc/p/%E5%B1%B1%E8%A5%BF/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/97a2da420345fec0dcfe55bd023dd53.jpg" alt="Featured image of post 山西" />&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/81a7c3e02487064101727cb3848822f.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/81a7c3e02487064101727cb3848822f.jpg" alt="81a7c3e02487064101727cb3848822f" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/ed587486fadaed08fff74547f5ce81a.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/ed587486fadaed08fff74547f5ce81a.jpg" alt="ed587486fadaed08fff74547f5ce81a" />
+&lt;/a>
+&lt;/div>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8f363fb459fd759d05581517b363876.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8f363fb459fd759d05581517b363876.jpg" alt="8f363fb459fd759d05581517b363876" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/23012fa2295437c9f1bec15b7b5c806.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/23012fa2295437c9f1bec15b7b5c806.jpg" alt="23012fa2295437c9f1bec15b7b5c806" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/bcb72f1cdf2c845af3a2199409fee2e.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/bcb72f1cdf2c845af3a2199409fee2e.jpg" alt="bcb72f1cdf2c845af3a2199409fee2e" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9cad2cbf4c1ae0ec42ccb629cb156c5.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9cad2cbf4c1ae0ec42ccb629cb156c5.jpg" alt="9cad2cbf4c1ae0ec42ccb629cb156c5" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/c028f7b4444d379d996b44967ee47ac.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/c028f7b4444d379d996b44967ee47ac.jpg" alt="c028f7b4444d379d996b44967ee47ac" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/6935318838ccc454220ed0ed24afad2.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/6935318838ccc454220ed0ed24afad2.jpg" alt="6935318838ccc454220ed0ed24afad2" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d4b1b362e053154fcbed29c521f4c67.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d4b1b362e053154fcbed29c521f4c67.jpg" alt="d4b1b362e053154fcbed29c521f4c67" />
+&lt;/a>
+&lt;/div>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f03feb20e76f194646d24715f9ce7e6.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f03feb20e76f194646d24715f9ce7e6.jpg" alt="f03feb20e76f194646d24715f9ce7e6" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/99a94967c5bb4eb0fd12c9b6135ff24.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/99a94967c5bb4eb0fd12c9b6135ff24.jpg" alt="99a94967c5bb4eb0fd12c9b6135ff24" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/4e0694ebb52b2c49bdb2e92b010d4bb.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/4e0694ebb52b2c49bdb2e92b010d4bb.jpg" alt="4e0694ebb52b2c49bdb2e92b010d4bb" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/798ee79ce172a927eddce2f5dd14498.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/798ee79ce172a927eddce2f5dd14498.jpg" alt="798ee79ce172a927eddce2f5dd14498" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7d30835c76524eb01138c759b0a3f86.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7d30835c76524eb01138c759b0a3f86.jpg" alt="7d30835c76524eb01138c759b0a3f86" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b73d7df5e6d05eddae4b88368f483d3.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b73d7df5e6d05eddae4b88368f483d3.jpg" alt="b73d7df5e6d05eddae4b88368f483d3" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a285d971f77f965d29d989efe5f8498.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a285d971f77f965d29d989efe5f8498.jpg" alt="a285d971f77f965d29d989efe5f8498" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/6b380a9c501b8da282a3c5fe75db6cd.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/6b380a9c501b8da282a3c5fe75db6cd.jpg" alt="6b380a9c501b8da282a3c5fe75db6cd" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/97a2da420345fec0dcfe55bd023dd53.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/97a2da420345fec0dcfe55bd023dd53.jpg" alt="97a2da420345fec0dcfe55bd023dd53" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d50a12fbec69c2e4d35140cfa11c022.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d50a12fbec69c2e4d35140cfa11c022.jpg" alt="d50a12fbec69c2e4d35140cfa11c022" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/e4f68b11bf7ec70045def58dd698352.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/e4f68b11bf7ec70045def58dd698352.jpg" alt="e4f68b11bf7ec70045def58dd698352" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/533cd2ad2fbbaa1ed4d511e590abf98.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/533cd2ad2fbbaa1ed4d511e590abf98.jpg" alt="533cd2ad2fbbaa1ed4d511e590abf98" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a6810fadaebdc4fe1061cc252ef3747.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a6810fadaebdc4fe1061cc252ef3747.jpg" alt="a6810fadaebdc4fe1061cc252ef3747" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3a96d2756e14fc5a07414b47c34c0b5.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3a96d2756e14fc5a07414b47c34c0b5.jpg" alt="3a96d2756e14fc5a07414b47c34c0b5" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/78470368c625d7b7aaa1d6524deaef8.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/78470368c625d7b7aaa1d6524deaef8.jpg" alt="78470368c625d7b7aaa1d6524deaef8" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d454e66327957ec0acbda91046c0b6c.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d454e66327957ec0acbda91046c0b6c.jpg" alt="d454e66327957ec0acbda91046c0b6c" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a66a836dc3a0e8f96a897737df7bdaa.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a66a836dc3a0e8f96a897737df7bdaa.jpg" alt="a66a836dc3a0e8f96a897737df7bdaa" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/72c25194241a9e518f2e71024ef8683.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/72c25194241a9e518f2e71024ef8683.jpg" alt="72c25194241a9e518f2e71024ef8683" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3a07860911b0d2251936e14427f0719.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/3a07860911b0d2251936e14427f0719.jpg" alt="3a07860911b0d2251936e14427f0719" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/ca8edc514d2e109b631365a490cebc5.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/ca8edc514d2e109b631365a490cebc5.jpg" alt="ca8edc514d2e109b631365a490cebc5" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f592711e6fea59367d4e14f7f708bd8.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f592711e6fea59367d4e14f7f708bd8.jpg" alt="f592711e6fea59367d4e14f7f708bd8" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ee36192ee3b29abf680ae510c65303.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ee36192ee3b29abf680ae510c65303.jpg" alt="7ee36192ee3b29abf680ae510c65303" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/81b59f4993eb1dde1e64918ed5b5b56.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/81b59f4993eb1dde1e64918ed5b5b56.jpg" alt="81b59f4993eb1dde1e64918ed5b5b56" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/798bbe83a89e3ffd55146164f64a899.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/798bbe83a89e3ffd55146164f64a899.jpg" alt="798bbe83a89e3ffd55146164f64a899" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d86b0f11ac53e042f158bf253f4a023.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d86b0f11ac53e042f158bf253f4a023.jpg" alt="d86b0f11ac53e042f158bf253f4a023" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fa98602bddc7e622a3f2a52c98c4f58.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/fa98602bddc7e622a3f2a52c98c4f58.jpg" alt="fa98602bddc7e622a3f2a52c98c4f58" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a04f186132dc24daec65d9e19137fe4.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a04f186132dc24daec65d9e19137fe4.jpg" alt="a04f186132dc24daec65d9e19137fe4" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/0f9525a48008c09ce9cc8b67b87f9ed.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/0f9525a48008c09ce9cc8b67b87f9ed.jpg" alt="0f9525a48008c09ce9cc8b67b87f9ed" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/290402a7ddf7dbcb5b0d84a66e174cb.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/290402a7ddf7dbcb5b0d84a66e174cb.jpg" alt="290402a7ddf7dbcb5b0d84a66e174cb" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a4aa4e34f314967c6ccb077e3278249.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a4aa4e34f314967c6ccb077e3278249.jpg" alt="a4aa4e34f314967c6ccb077e3278249" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/c605aa1ff218e1c1b9e07226da01719.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/c605aa1ff218e1c1b9e07226da01719.jpg" alt="c605aa1ff218e1c1b9e07226da01719" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f211772cd816aa18935ee471d263c87.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f211772cd816aa18935ee471d263c87.jpg" alt="f211772cd816aa18935ee471d263c87" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/84f176d0cbdaa0bf249531348b512b2.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/84f176d0cbdaa0bf249531348b512b2.jpg" alt="84f176d0cbdaa0bf249531348b512b2" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/683959b3fcf96a73b0b89419ebf053e.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/683959b3fcf96a73b0b89419ebf053e.jpg" alt="683959b3fcf96a73b0b89419ebf053e" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a6d068f50512c8258b92e7e182a7f59.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a6d068f50512c8258b92e7e182a7f59.jpg" alt="a6d068f50512c8258b92e7e182a7f59" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2a812f4da0ae814c47a51317dbb0c5f.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2a812f4da0ae814c47a51317dbb0c5f.jpg" alt="2a812f4da0ae814c47a51317dbb0c5f" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f405c8650e2333dad52c36917c3b9ad.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f405c8650e2333dad52c36917c3b9ad.jpg" alt="f405c8650e2333dad52c36917c3b9ad" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9e1792c254d72ef76c049bcae291779.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9e1792c254d72ef76c049bcae291779.jpg" alt="9e1792c254d72ef76c049bcae291779" />
+&lt;/a>
+&lt;/div>
+&lt;/p></description></item><item><title>在路上</title><link>https://pandy.cc/p/%E5%9C%A8%E8%B7%AF%E4%B8%8A/</link><pubDate>Sat, 18 May 2024 00:41:11 +0000</pubDate><guid>https://pandy.cc/p/%E5%9C%A8%E8%B7%AF%E4%B8%8A/</guid><description>&lt;p>20多年前，在我很小的时候，每每和爷爷奶奶去新疆，姑妈那里的时候，也是如此，在硬卧火车里，经过两日两夜，从陕西咸阳开往新疆乌鲁木齐，再转车到达奎屯…&lt;/p>
 &lt;p>在候车室等车的时候，那时候我们去得很早，因为从村里到市里要搭顺风车，早早过去，在大厅抢一个座位，我记得很清楚大厅里有个显示屏，上面放映着功夫足球，周星驰一脚踢飞一个易拉罐，那个易拉罐嵌入了墙里，墙倒了，记忆戛然而止，要检票了。&lt;/p>
 &lt;p>我忘了在车上发生的事，只是有几个片段可堪回忆，火车每过一段时间会停下来，车上的人可以下去，站台上有卖吃食的小贩，爷爷下了车，我担心他上不来，不安分地在奶奶怀里，脑袋一直朝着窗外看，后来爷爷买了一只烧鸡回来了，是烧鸡还是什么来着，我记不清了，只记得他回来了，车关了门，又向前开了。&lt;/p>
 &lt;p>我喜欢在车厢里跑，爬卧铺旁的梯子，爬上爬下，上去的时候，窗外是矮矮的麦田，下来的时候，窗外又是荒凉的戈壁。有很多树，很多房子，很多转瞬即逝，我忘了我见到过的人了，后来听说有个老奶奶一直想要我，想把我抱走，大人轻描淡写甚至笑着说这件事的时候，只有我很心里真是庆幸又忐忑。&lt;/p>
@@ -532,10 +726,13 @@ alt="9e1792c254d72ef76c049bcae291779"
 &lt;p>走了很多次那条路，瞥见窗外的青山、雪山，想到了那句，我问青山何时老，青山问我几时闲？云浮岳峙，究竟什么是易逝，什么又是永恒呢？&lt;/p>
 &lt;p>易逝的是一切，孤独才是永恒。&lt;/p>
 &lt;p>很多年没有坐过绿皮火车了，旁边的大哥正在打呼噜，我躺在这里，回忆往事，不禁碎碎几句，火车略微摇晃，窗外的灯光不时明灭，我在哪里，又要去往哪里呢？无论怎样，身体和灵魂，总有一个要在路上…&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/51d69472201af606c82ffde684c21ea.jpg"
-loading="lazy"
-alt="51d69472201af606c82ffde684c21ea"
->&lt;/p></description></item><item><title>做笔记</title><link>https://pandy.cc/p/%E5%81%9A%E7%AC%94%E8%AE%B0/</link><pubDate>Thu, 16 May 2024 15:12:17 +0000</pubDate><guid>https://pandy.cc/p/%E5%81%9A%E7%AC%94%E8%AE%B0/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/43bbc077c30beea5aa5b28965deb61a.jpg" alt="Featured image of post 做笔记" />&lt;p>作为一个需要常年记录笔记的重度用户，我一直在寻找一个比较完美的记笔记的方案，理想中的情况应该具备以下的功能：&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/51d69472201af606c82ffde684c21ea.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/51d69472201af606c82ffde684c21ea.jpg" alt="51d69472201af606c82ffde684c21ea" />
+&lt;/a>
+&lt;/div>
+&lt;/p></description></item><item><title>做笔记</title><link>https://pandy.cc/p/%E5%81%9A%E7%AC%94%E8%AE%B0/</link><pubDate>Thu, 16 May 2024 15:12:17 +0000</pubDate><guid>https://pandy.cc/p/%E5%81%9A%E7%AC%94%E8%AE%B0/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/43bbc077c30beea5aa5b28965deb61a.jpg" alt="Featured image of post 做笔记" />&lt;p>作为一个需要常年记录笔记的重度用户，我一直在寻找一个比较完美的记笔记的方案，理想中的情况应该具备以下的功能：&lt;/p>
 &lt;ol>
 &lt;li>
 &lt;p>支持多端同步。&lt;/p>
@@ -598,116 +795,199 @@ alt="51d69472201af606c82ffde684c21ea"
 &lt;p>语雀我也用过一段时间，但是相比于语雀，我觉得还不如用飞书，飞书直接支持客户端上传一些pdf文件之类的，且打开速度比语雀要快，服务器崩溃次数比语雀要少，语雀更多地是面向企业用户的，里面有一些知识库的概念，权限管控也做得比较完善，我现在主要是去别人得知识库查看文件，自己很少在上面做笔记了，因为有时候会觉得记笔记是一件很私人的事情，其实读书也是。&lt;/p>
 &lt;p>做笔记的好处就是可以整理自己的思维，总结知识，尤其是要面对知识体系非常庞大的情况，做做笔记，这也是成长的过程，我喜欢记录。&lt;/p>
 &lt;p>Notion的功能非常强大，可玩性很强，但是没有中文的客户端，现在正在试用，可以看下这篇文章《将微信读书的笔记、划线等阅读记录同步至Notion》。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7db38dee3a885e86f935372a975d34e.png"
-loading="lazy"
-alt="OneNote"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/bd7aec9100850e75d4b10297f1b6089.png"
-loading="lazy"
-alt="语雀"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/eadd6150d4e7b2b7dd5f360cf9e5a24.png"
-loading="lazy"
-alt="iCloud"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a19ad54b60670b08119c602d7b29731.png"
-loading="lazy"
-alt="Notability"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9bf70eebe57ebe34e259abaf29c20cd.jpg"
-loading="lazy"
-alt="9bf70eebe57ebe34e259abaf29c20cd"
->&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/43bbc077c30beea5aa5b28965deb61a.jpg"
-loading="lazy"
-alt="笔记本"
->&lt;/p></description></item><item><title>苏州</title><link>https://pandy.cc/p/%E8%8B%8F%E5%B7%9E/</link><pubDate>Wed, 08 May 2024 17:28:39 +0000</pubDate><guid>https://pandy.cc/p/%E8%8B%8F%E5%B7%9E/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081746960.png" alt="Featured image of post 苏州" />&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081754832.jpg"
-loading="lazy"
-alt="4751715142718_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081753932.jpg"
-loading="lazy"
-alt="4741715142686_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081753738.jpg"
-loading="lazy"
-alt="4701715142061_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081753855.jpg"
-loading="lazy"
-alt="4691715141585_.pic_hd"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081734949.jpg"
-loading="lazy"
-alt="4811715143234_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081735081.jpg"
-loading="lazy"
-alt="9831715154753_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738303.jpg"
-loading="lazy"
-alt="9851715154754_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738873.jpg"
-loading="lazy"
-alt="9861715154755_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738248.jpg"
-loading="lazy"
-alt="9871715154756_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738574.jpg"
-loading="lazy"
-alt="9881715154758_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738837.jpg"
-loading="lazy"
-alt="9891715154759_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738296.jpg"
-loading="lazy"
-alt="9901715154760_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081739850.jpg"
-loading="lazy"
-alt="9911715154761_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081739379.jpg"
-loading="lazy"
-alt="9921715154762_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081740847.jpg"
-loading="lazy"
-alt="9931715154764_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081740897.jpg"
-loading="lazy"
-alt="9941715154766_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081740148.jpg"
-loading="lazy"
-alt="9951715154766_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081741553.jpg"
-loading="lazy"
-alt="9961715154767_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081741129.jpg"
-loading="lazy"
-alt="9981715154770_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081741713.jpg"
-loading="lazy"
-alt="9991715154771_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081744092.jpg"
-loading="lazy"
-alt="4661715160661_.pic"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405082358201.jpg"
-loading="lazy"
-alt="5031715155049_.pic"
->&lt;/p></description></item><item><title>上海</title><link>https://pandy.cc/p/%E4%B8%8A%E6%B5%B7/</link><pubDate>Mon, 06 May 2024 23:14:03 +0000</pubDate><guid>https://pandy.cc/p/%E4%B8%8A%E6%B5%B7/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758555.png" alt="Featured image of post 上海" />&lt;p>云很白 让我很好奇为什么会如此纯粹得白 云海翻涌 让我窒息海为何在天上&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7db38dee3a885e86f935372a975d34e.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7db38dee3a885e86f935372a975d34e.png" alt="OneNote" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/bd7aec9100850e75d4b10297f1b6089.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/bd7aec9100850e75d4b10297f1b6089.png" alt="语雀" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/eadd6150d4e7b2b7dd5f360cf9e5a24.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/eadd6150d4e7b2b7dd5f360cf9e5a24.png" alt="iCloud" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a19ad54b60670b08119c602d7b29731.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/a19ad54b60670b08119c602d7b29731.png" alt="Notability" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9bf70eebe57ebe34e259abaf29c20cd.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/9bf70eebe57ebe34e259abaf29c20cd.jpg" alt="9bf70eebe57ebe34e259abaf29c20cd" />
+&lt;/a>
+&lt;/div>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/43bbc077c30beea5aa5b28965deb61a.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/43bbc077c30beea5aa5b28965deb61a.jpg" alt="笔记本" />
+&lt;/a>
+&lt;/div>
+&lt;/p></description></item><item><title>苏州</title><link>https://pandy.cc/p/%E8%8B%8F%E5%B7%9E/</link><pubDate>Wed, 08 May 2024 17:28:39 +0000</pubDate><guid>https://pandy.cc/p/%E8%8B%8F%E5%B7%9E/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081746960.png" alt="Featured image of post 苏州" />&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081754832.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081754832.jpg" alt="4751715142718_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081753932.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081753932.jpg" alt="4741715142686_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081753738.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081753738.jpg" alt="4701715142061_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081753855.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081753855.jpg" alt="4691715141585_.pic_hd" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081734949.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081734949.jpg" alt="4811715143234_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081735081.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081735081.jpg" alt="9831715154753_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738303.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738303.jpg" alt="9851715154754_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738873.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738873.jpg" alt="9861715154755_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738248.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738248.jpg" alt="9871715154756_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738574.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738574.jpg" alt="9881715154758_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738837.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738837.jpg" alt="9891715154759_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738296.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081738296.jpg" alt="9901715154760_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081739850.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081739850.jpg" alt="9911715154761_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081739379.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081739379.jpg" alt="9921715154762_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081740847.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081740847.jpg" alt="9931715154764_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081740897.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081740897.jpg" alt="9941715154766_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081740148.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081740148.jpg" alt="9951715154766_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081741553.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081741553.jpg" alt="9961715154767_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081741129.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081741129.jpg" alt="9981715154770_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081741713.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081741713.jpg" alt="9991715154771_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081744092.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405081744092.jpg" alt="4661715160661_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405082358201.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405082358201.jpg" alt="5031715155049_.pic" />
+&lt;/a>
+&lt;/div>
+&lt;/p></description></item><item><title>上海</title><link>https://pandy.cc/p/%E4%B8%8A%E6%B5%B7/</link><pubDate>Mon, 06 May 2024 23:14:03 +0000</pubDate><guid>https://pandy.cc/p/%E4%B8%8A%E6%B5%B7/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758555.png" alt="Featured image of post 上海" />&lt;p>云很白 让我很好奇为什么会如此纯粹得白 云海翻涌 让我窒息海为何在天上&lt;/p>
 &lt;p>天气很好 没有阳光 也不是阴天 就和油画里的感觉一样&lt;/p>
 &lt;p>我感到一切都是易逝的 也许是车速如此之快吧&lt;/p>
 &lt;p>在生活中也一样 只是步子的慢 有时候遮盖住了这种感觉&lt;/p>
@@ -717,26 +997,41 @@ alt="5031715155049_.pic"
 &lt;p>天空忽明忽暗 仿佛人在和天地对话 不时穿过一个山洞 也许在很多年前 我们的几秒钟 就是他们的好些月 好些天 是时光变长了吗 可它为何又变得如此之短呢&lt;/p>
 &lt;p>我不是一个创作者 我甚至不是一个合格的观察者 我莫名觉得一阵庆幸 我还很健康 一切都不算太晚&lt;/p>
 &lt;p>我问青山何时老 青山问我几时闲&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758555.png"
-loading="lazy"
-alt="image-20240507075230880"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758611.png"
-loading="lazy"
-alt="image-20240507075841996"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758268.png"
-loading="lazy"
-alt="image-20240507075851209"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070759813.png"
-loading="lazy"
-alt="image-20240507075905711"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070759906.png"
-loading="lazy"
-alt="image-20240507075918848"
->&lt;/p></description></item><item><title>The Snows Of Kilimanjaro</title><link>https://pandy.cc/p/the-snows-of-kilimanjaro/</link><pubDate>Sun, 05 May 2024 13:01:20 +0000</pubDate><guid>https://pandy.cc/p/the-snows-of-kilimanjaro/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070837659.jpg" alt="Featured image of post The Snows Of Kilimanjaro" />&lt;p>乞力马扎罗的雪。&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758555.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758555.png" alt="image-20240507075230880" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758611.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758611.png" alt="image-20240507075841996" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758268.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070758268.png" alt="image-20240507075851209" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070759813.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070759813.png" alt="image-20240507075905711" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070759906.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070759906.png" alt="image-20240507075918848" />
+&lt;/a>
+&lt;/div>
+&lt;/p></description></item><item><title>The Snows Of Kilimanjaro</title><link>https://pandy.cc/p/the-snows-of-kilimanjaro/</link><pubDate>Sun, 05 May 2024 13:01:20 +0000</pubDate><guid>https://pandy.cc/p/the-snows-of-kilimanjaro/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/202405070837659.jpg" alt="Featured image of post The Snows Of Kilimanjaro" />&lt;p>乞力马扎罗的雪。&lt;/p>
 &lt;p>很喜欢海明威的这部短篇，它也许是我最喜欢的短篇了。&lt;/p>
 &lt;p>“覆盖着积雪的乞力马扎罗山山高19710英尺，据说是非洲境内最高的一座山峰。山的西主峰被马赛人称作“纳加奇-纳加伊”，意思是“上帝的殿堂”。靠近西主峰的地方有一具风干冻僵了的雪豹尸体。雪豹在那么高的地方寻找什么，没有人做出过解释。”&lt;/p>
 &lt;p>故事发生在坦桑尼亚的乞力马扎罗山附近，一个名叫哈利的作家，在非洲野生动物狩猎旅行中因划伤腿部而感染坏疽。他和他的伴侣海伦一起在乞力马扎罗山下的营地中，哈利面临着即将到来的死亡。在故事中，哈利回顾了自己的生活和错失的写作机会，同时也反思了他的人生选择和失败。&lt;/p>
@@ -2189,12 +2484,19 @@ Hi，这个月光宝盒呢……&lt;br>
 &lt;p>平凡的人，从平凡甚至是略显残酷的命运里，是怎么对生命有如此多质朴且滚烫的体会的，这是我最近一直在想的问题。&lt;/p>
 &lt;p>倒不是说，余秀华不能写出来这些文字，产生这些想法，我只是很好奇，我对于生活的理解，是不是不太对，亦或者说，少了些重要的东西。&lt;/p>
 &lt;p>下午去跑步的时候，走在路上，突然闻到了一股很浓烈且熟悉的香气，抬头一看，密密的果然是洋槐花开了。这是我家院子里的味道，我家院子里就种着一棵很大的槐树，每年四月份，花开的时候，亲戚邻里就会拿着盆来摘洋槐花，洋槐花拌着面粉早上蒸着吃、我们陕西人叫做“蒸疙瘩”，就着粥，这是只属于四月的味道。五月了，北京的洋槐花这会儿也有，看来花期还是有区别的。
-&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b8e776783c2b06bfe7a4f2395da8470.jpg"
-loading="lazy"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/65f3c673ffaf0c895c6eb8ca8467f13.jpg"
-loading="lazy"
->&lt;/p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b8e776783c2b06bfe7a4f2395da8470.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/b8e776783c2b06bfe7a4f2395da8470.jpg" alt="" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/65f3c673ffaf0c895c6eb8ca8467f13.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/65f3c673ffaf0c895c6eb8ca8467f13.jpg" alt="" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>我想余秀华要是站在这里，是不是文字里会多一个段落。&lt;/p>
 &lt;p>晚上刚看完竹节草这一章节，能在整天和杂草的斗争中，窥见不屈、窥见不卑不亢、窥见命运乃至轮回，理解原来就埋藏在生活的角角落落里。&lt;/p>
 &lt;blockquote>
@@ -2205,9 +2507,13 @@ loading="lazy"
 &lt;blockquote>
 &lt;p>它根本不忌讳自己是野草。它不会有自卑。&lt;/p>
 &lt;/blockquote>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ad6c7b02ce025c46cb3a89fca77e44.jpg"
-loading="lazy"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ad6c7b02ce025c46cb3a89fca77e44.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/7ad6c7b02ce025c46cb3a89fca77e44.jpg" alt="" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>我也在地里锄过草。当时只有一个想法，就是赶紧锄完，因为太阳要是大了，会非常热。我甚至有时候觉得我之所以，浅薄且无趣，是因为我是个普普通通的正常人。&lt;/p>
 &lt;p>没有不幸，没有病痛，没有太多烦扰。&lt;/p>
 &lt;p>沦入庸俗都显得水到渠成了。&lt;/p>
@@ -2220,9 +2526,13 @@ loading="lazy"
 &lt;/blockquote>
 &lt;p>我理解的一些方式，是不是是建立在余秀华命运的曲折之上呢？&lt;/p>
 &lt;p>文字被写出来，有时候是作为打通你我内心，引发共鸣的东西的， 可能因为文字不会讲话，杂草也不会，和平庸的日子呆得久了，我希望自己变得质朴而不是平庸。&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/139bba01aad39a5e1f8bf44f249e0ae.jpg"
-loading="lazy"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/139bba01aad39a5e1f8bf44f249e0ae.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/139bba01aad39a5e1f8bf44f249e0ae.jpg" alt="" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>和土地打过很久的交道，我从来自土地、依靠土地、逃离土地、又到现在要回到土地了。&lt;/p>
 &lt;p>地里的庄稼我都熟悉，我甚至都想好了，以后为我家田里的每种农作物亦或者花草都写一篇文章，配上图片和文字，分享到博客中。我不想和谁争什么了，都没关系，都无所谓，最近身边几个亲戚和朋友的生病，也让我对于工作的看法改变了一些。&lt;/p>
 &lt;p>人刚一退休，想停下来好好清闲几年，殊不知身体有时候一旦放松下来，没有了意志和目标的支撑，一做检查，发现处处都是问题。&lt;/p>
@@ -2389,10 +2699,13 @@ loading="lazy"
 &lt;p>会不会&lt;/p>
 &lt;p>天空和海都听得见&lt;/p>
 &lt;/blockquote>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cdb2b8554a14cc4eec2ee9950dd66f1.jpg"
-loading="lazy"
-alt="早安"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cdb2b8554a14cc4eec2ee9950dd66f1.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/cdb2b8554a14cc4eec2ee9950dd66f1.jpg" alt="早安" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;h3 id="问">
 &lt;a href="#%e9%97%ae" class="header-anchor">#&lt;/a>
 问
@@ -3298,47 +3611,79 @@ alt="早安"
 &lt;h3 id="朝闻道夕可眠矣">
 &lt;a href="#%e6%9c%9d%e9%97%bb%e9%81%93%e5%a4%95%e5%8f%af%e7%9c%a0%e7%9f%a3" class="header-anchor">#&lt;/a>
 朝闻道夕可眠矣
-&lt;/h3>&lt;p>哲思相关&lt;/p></description></item><item><title>长沙</title><link>https://pandy.cc/p/%E9%95%BF%E6%B2%99/</link><pubDate>Fri, 16 Feb 2024 14:56:59 +0000</pubDate><guid>https://pandy.cc/p/%E9%95%BF%E6%B2%99/</guid><description>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/1f36a80c3b54f359cca0c0b1a34c4b3.jpg"
-loading="lazy"
-alt="1f36a80c3b54f359cca0c0b1a34c4b3"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2024-02-18%20111608.jpg"
-loading="lazy"
-alt="2024-02-18 111608"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/0c123a6ebcd65ce27f901ae145da362.jpg"
-loading="lazy"
-alt="0c123a6ebcd65ce27f901ae145da362"
->&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/06c642e09fe535b87dc7131f6a6c5b8.jpg"
-loading="lazy"
-alt="06c642e09fe535b87dc7131f6a6c5b8"
->&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/c1c37b5eeb5c381f101e13cab5bb2c3.jpg"
-loading="lazy"
-alt="c1c37b5eeb5c381f101e13cab5bb2c3"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/1ef42528d281988b22134a402bbd3b0.jpg"
-loading="lazy"
-alt="1ef42528d281988b22134a402bbd3b0"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/161cf649f85896ee617eaacf998d45b.jpg"
-loading="lazy"
-alt="161cf649f85896ee617eaacf998d45b"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/19acadb6481cfe09421dbff2ea2a49d.jpg"
-loading="lazy"
-alt="19acadb6481cfe09421dbff2ea2a49d"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/ae73cf5bff14e32ce9808fc17ca76b7.jpg"
-loading="lazy"
-alt="ae73cf5bff14e32ce9808fc17ca76b7"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f9413d5b7db83339524385a9e09edd0.jpg"
-loading="lazy"
-alt="f9413d5b7db83339524385a9e09edd0"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f72c27801ce430dd11fcf70573210b7.jpg"
-loading="lazy"
->&lt;/p>
+&lt;/h3>&lt;p>哲思相关&lt;/p></description></item><item><title>长沙</title><link>https://pandy.cc/p/%E9%95%BF%E6%B2%99/</link><pubDate>Fri, 16 Feb 2024 14:56:59 +0000</pubDate><guid>https://pandy.cc/p/%E9%95%BF%E6%B2%99/</guid><description>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/1f36a80c3b54f359cca0c0b1a34c4b3.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/1f36a80c3b54f359cca0c0b1a34c4b3.jpg" alt="1f36a80c3b54f359cca0c0b1a34c4b3" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2024-02-18%20111608.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/2024-02-18%20111608.jpg" alt="2024-02-18 111608" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/0c123a6ebcd65ce27f901ae145da362.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/0c123a6ebcd65ce27f901ae145da362.jpg" alt="0c123a6ebcd65ce27f901ae145da362" />
+&lt;/a>
+&lt;/div>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/06c642e09fe535b87dc7131f6a6c5b8.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/06c642e09fe535b87dc7131f6a6c5b8.jpg" alt="06c642e09fe535b87dc7131f6a6c5b8" />
+&lt;/a>
+&lt;/div>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/c1c37b5eeb5c381f101e13cab5bb2c3.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/c1c37b5eeb5c381f101e13cab5bb2c3.jpg" alt="c1c37b5eeb5c381f101e13cab5bb2c3" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/1ef42528d281988b22134a402bbd3b0.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/1ef42528d281988b22134a402bbd3b0.jpg" alt="1ef42528d281988b22134a402bbd3b0" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/161cf649f85896ee617eaacf998d45b.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/161cf649f85896ee617eaacf998d45b.jpg" alt="161cf649f85896ee617eaacf998d45b" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/19acadb6481cfe09421dbff2ea2a49d.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/19acadb6481cfe09421dbff2ea2a49d.jpg" alt="19acadb6481cfe09421dbff2ea2a49d" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/ae73cf5bff14e32ce9808fc17ca76b7.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/ae73cf5bff14e32ce9808fc17ca76b7.jpg" alt="ae73cf5bff14e32ce9808fc17ca76b7" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f9413d5b7db83339524385a9e09edd0.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f9413d5b7db83339524385a9e09edd0.jpg" alt="f9413d5b7db83339524385a9e09edd0" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f72c27801ce430dd11fcf70573210b7.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/f72c27801ce430dd11fcf70573210b7.jpg" alt="" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;div class="video-wrapper">
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1zz421m7Ph&amp;autoplay=0"
 scrolling="no"
@@ -3356,38 +3701,62 @@ framespacing="0"
 allowfullscreen="true"
 >
 &lt;/iframe>
-&lt;/div></description></item><item><title>杭州</title><link>https://pandy.cc/p/%E6%9D%AD%E5%B7%9E/</link><pubDate>Fri, 16 Feb 2024 13:34:56 +0000</pubDate><guid>https://pandy.cc/p/%E6%9D%AD%E5%B7%9E/</guid><description>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5f9fed47ebb265d5c3db11dc4c82ff.jpg"
-loading="lazy"
-alt="d5f9fed47ebb265d5c3db11dc4c82ff"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/193c09fd92e366df0a2ccb9bf8ab697.jpg"
-loading="lazy"
-alt="193c09fd92e366df0a2ccb9bf8ab697"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8a7dbef7bd04438acb19dd9a47a1e18.jpg"
-loading="lazy"
-alt="8a7dbef7bd04438acb19dd9a47a1e18"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/4f45563d9be6d0f495f2cb0c2ef2f1f.jpg"
-loading="lazy"
-alt="4f45563d9be6d0f495f2cb0c2ef2f1f"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/92428f831b5c4ef5de8e9ca0ad1bddc.jpg"
-loading="lazy"
-alt="92428f831b5c4ef5de8e9ca0ad1bddc"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/684b72de57b1ef33fb209eb473b7bab.jpg"
-loading="lazy"
-alt="684b72de57b1ef33fb209eb473b7bab"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/686b1b8e7ca56a54cfd13789758467e.jpg"
-loading="lazy"
-alt="686b1b8e7ca56a54cfd13789758467e"
->&lt;/p>
-&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/4f2479c7945577dc4af9c6788dc130f.jpg"
-loading="lazy"
-alt="粉丝在围栏上挂了两个小时"
->&lt;/p>
+&lt;/div></description></item><item><title>杭州</title><link>https://pandy.cc/p/%E6%9D%AD%E5%B7%9E/</link><pubDate>Fri, 16 Feb 2024 13:34:56 +0000</pubDate><guid>https://pandy.cc/p/%E6%9D%AD%E5%B7%9E/</guid><description>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5f9fed47ebb265d5c3db11dc4c82ff.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/d5f9fed47ebb265d5c3db11dc4c82ff.jpg" alt="d5f9fed47ebb265d5c3db11dc4c82ff" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/193c09fd92e366df0a2ccb9bf8ab697.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/193c09fd92e366df0a2ccb9bf8ab697.jpg" alt="193c09fd92e366df0a2ccb9bf8ab697" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8a7dbef7bd04438acb19dd9a47a1e18.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/8a7dbef7bd04438acb19dd9a47a1e18.jpg" alt="8a7dbef7bd04438acb19dd9a47a1e18" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/4f45563d9be6d0f495f2cb0c2ef2f1f.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/4f45563d9be6d0f495f2cb0c2ef2f1f.jpg" alt="4f45563d9be6d0f495f2cb0c2ef2f1f" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/92428f831b5c4ef5de8e9ca0ad1bddc.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/92428f831b5c4ef5de8e9ca0ad1bddc.jpg" alt="92428f831b5c4ef5de8e9ca0ad1bddc" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/684b72de57b1ef33fb209eb473b7bab.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/684b72de57b1ef33fb209eb473b7bab.jpg" alt="684b72de57b1ef33fb209eb473b7bab" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/686b1b8e7ca56a54cfd13789758467e.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/686b1b8e7ca56a54cfd13789758467e.jpg" alt="686b1b8e7ca56a54cfd13789758467e" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/4f2479c7945577dc4af9c6788dc130f.jpg">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/4f2479c7945577dc4af9c6788dc130f.jpg" alt="粉丝在围栏上挂了两个小时" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;div class="video-wrapper">
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ot421u7gL&amp;autoplay=0"
 scrolling="no"
@@ -3461,9 +3830,13 @@ allowfullscreen="true"
 &lt;p>我们不是单纯追求詩宇宙和死亡，只是在有限的文明旅途中，作为个普通人，以我能想象到的最浪漫主义的根源的视角，发展，除了这三者，其他一切，黯然失色。&lt;/p>
 &lt;p>诗是自我的孤单。宇宙是永恒不变。死亡是一个凉爽的夜晚。&lt;/p>
 &lt;p>我们尽量在真实世界和唯心间取得一个权衡。&lt;/p>
-&lt;p>我是似乎没能力再向上了，我只能从唯心里得到慰藉，哲学里得到启发，就这还是比较好的结局了。因为没有病痛折磨，家庭的支离破碎烦扰，为了求生而挣扎，人生，活下去就是不易了，可重要的是，所有苦痛，都将让我们体会到幸福为何，这就够了。&lt;/p></description></item><item><title>姥爷</title><link>https://pandy.cc/p/sui-sui-nian/lao-ye/</link><pubDate>Tue, 22 Aug 2023 09:18:48 +0000</pubDate><guid>https://pandy.cc/p/sui-sui-nian/lao-ye/</guid><description>&lt;p>&lt;img src="https://didablog.oss-cn-beijing.aliyuncs.com/b11ce1dc0df995a572e474b1d38f08c.png"
-loading="lazy"
->&lt;/p></description></item><item><title>哀酱</title><link>https://pandy.cc/p/sui-sui-nian/ai/</link><pubDate>Fri, 18 Aug 2023 12:49:17 +0000</pubDate><guid>https://pandy.cc/p/sui-sui-nian/ai/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/93443ffb479c3fa038c9930f20d0c36.png" alt="Featured image of post 哀酱" />&lt;p>&lt;em>Miyano Shiho&lt;/em>&lt;/p>
+&lt;p>我是似乎没能力再向上了，我只能从唯心里得到慰藉，哲学里得到启发，就这还是比较好的结局了。因为没有病痛折磨，家庭的支离破碎烦扰，为了求生而挣扎，人生，活下去就是不易了，可重要的是，所有苦痛，都将让我们体会到幸福为何，这就够了。&lt;/p></description></item><item><title>姥爷</title><link>https://pandy.cc/p/sui-sui-nian/lao-ye/</link><pubDate>Tue, 22 Aug 2023 09:18:48 +0000</pubDate><guid>https://pandy.cc/p/sui-sui-nian/lao-ye/</guid><description>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://didablog.oss-cn-beijing.aliyuncs.com/b11ce1dc0df995a572e474b1d38f08c.png">
+&lt;img src="https://didablog.oss-cn-beijing.aliyuncs.com/b11ce1dc0df995a572e474b1d38f08c.png" alt="" />
+&lt;/a>
+&lt;/div>
+&lt;/p></description></item><item><title>哀酱</title><link>https://pandy.cc/p/sui-sui-nian/ai/</link><pubDate>Fri, 18 Aug 2023 12:49:17 +0000</pubDate><guid>https://pandy.cc/p/sui-sui-nian/ai/</guid><description>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/93443ffb479c3fa038c9930f20d0c36.png" alt="Featured image of post 哀酱" />&lt;p>&lt;em>Miyano Shiho&lt;/em>&lt;/p>
 &lt;p>独立、智慧，处变不惊。她的善良从来都是沉默的，以至于使多数人难以察觉。&lt;/p>
 &lt;p>拥有自己的追求和目标，处世之道、人生哲学和特别于他人的人格魅力。&lt;/p>
 &lt;p>作为科学家，习惯于追求自然世界的逻辑与真理，这是造就她性格气质的源头。&lt;/p>
@@ -3898,9 +4271,13 @@ loading="lazy"
 &lt;p>肉体的温存，让他们去温存吧。让他们步入良夜吧。让他们疯狂去吧。让他们在假面舞会里欲仙欲死吧。&lt;/p>
 &lt;p>我有一丝丝失落和遗憾，好像我没睡很多女孩，是我的缺失一样。我什么都有，我可以五分钟，就让女孩对我感兴趣，可我没有在网上去买避孕套，我他妈想当个作家。&lt;/p>
 &lt;p>我想起了海明威，我看到了那张照片，1936年的时候，海明威在写《丧钟为谁而鸣》。丧钟为那些不信教，内心不虔诚，乱性的男男女女，痴男怨女、凡夫俗子而鸣！&lt;/p>
-&lt;p>&lt;img src="https://s2.loli.net/2023/06/19/dPcSkGmiHh7rpMj.jpg"
-loading="lazy"
->&lt;/p>
+&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://s2.loli.net/2023/06/19/dPcSkGmiHh7rpMj.jpg">
+&lt;img src="https://s2.loli.net/2023/06/19/dPcSkGmiHh7rpMj.jpg" alt="" />
+&lt;/a>
+&lt;/div>
+&lt;/p>
 &lt;p>我知道这个女孩对我有好感，但我拯救不了她。&lt;/p>
 &lt;p>我能做到的，就是不和她缠绵，不欺骗她，并告诉她不要相信我，保护好自己，我祝她好运。&lt;/p>
 &lt;p>我们就此告别。&lt;/p>
@@ -4692,10 +5069,13 @@ loading="lazy"
 &lt;p>梵高割掉了自己的耳朵，透过精神病院的窗户，画出了夜空中的湛蓝，我们挣扎着不去爱，或者疯狂寻找爱，我们矜持，我们放纵，我们不知道自己会和谁约定终生。&lt;/p>
 &lt;p>不冲动的人，不懂浪漫。&lt;/p>
 &lt;p>可太冲动的人，就在诗、宇宙、死亡中选个归宿吧～&lt;/p>
-&lt;p>平凡人，皆已死去。&lt;/p></description></item><item><title>在林间</title><link>https://pandy.cc/p/sui-sui-nian/zai-lin-jian/</link><pubDate>Sun, 25 Jun 2023 11:15:44 +0000</pubDate><guid>https://pandy.cc/p/sui-sui-nian/zai-lin-jian/</guid><description>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240502111612193.png"
-loading="lazy"
-alt="image-20240502111612193"
->&lt;/p></description></item><item><title>长夜晴空(一)</title><link>https://pandy.cc/p/xie-zuo/chang-ye-qing-kong-yi/</link><pubDate>Mon, 19 Jun 2023 17:52:57 +0000</pubDate><guid>https://pandy.cc/p/xie-zuo/chang-ye-qing-kong-yi/</guid><description>&lt;h3 id="序">
+&lt;p>平凡人，皆已死去。&lt;/p></description></item><item><title>在林间</title><link>https://pandy.cc/p/sui-sui-nian/zai-lin-jian/</link><pubDate>Sun, 25 Jun 2023 11:15:44 +0000</pubDate><guid>https://pandy.cc/p/sui-sui-nian/zai-lin-jian/</guid><description>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240502111612193.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240502111612193.png" alt="image-20240502111612193" />
+&lt;/a>
+&lt;/div>
+&lt;/p></description></item><item><title>长夜晴空(一)</title><link>https://pandy.cc/p/xie-zuo/chang-ye-qing-kong-yi/</link><pubDate>Mon, 19 Jun 2023 17:52:57 +0000</pubDate><guid>https://pandy.cc/p/xie-zuo/chang-ye-qing-kong-yi/</guid><description>&lt;h3 id="序">
 &lt;a href="#%e5%ba%8f" class="header-anchor">#&lt;/a>
 序
 &lt;/h3>&lt;p>个人的存在是渺小的，个人的感受却是自我的全部。&lt;/p>
@@ -5260,10 +5640,13 @@ alt="image-20240502111612193"
 &lt;p>从那以后，无论我哪次见到她，我都会叫一声，姑，前面不加万杨，加人名字没有直接叫称呼亲切！&lt;/p>
 &lt;p>我大学毕业已有三年，过去十几年了，我还记得很多小时候的事情，当然我也不会忘了我姑。我姑就是我姑，她是我生命中和我有着联系的一个人，前年听说，我姑终于找到了一个婆家，对方也是一个稍微有点傻的小伙子。我姑专门跑到我们家，来给我们说这件事，其实我们都知道了。我姑看上去很高兴，甚至有点含蓄和害羞了，说那个人还会骑摩托车带着她，还会做饭，还会干什么什么的一大堆，我姑是想和我们分享她的快乐啊。&lt;/p>
 &lt;p>我姑出嫁了。现在应该有孩子了吧。我希望她和她的那位丈夫，幸福一生。&lt;/p>
-&lt;p>人世间的很多事，很多人，很渺小，很卑微，我们对别人的尊重，对生命的尊重与爱，就是自我的存在意义与救赎，我当然希望这个世界鲜花盛开、鸟唱虫鸣，希望我姑从小就正常，可以享受青春和爱情。但如果真的黑夜来临，那人人都用爱去对待这个世界的话，将它变成一座花园，月光和日光就没什么不同，那不是漆黑，那只是偶尔路过的阴云，云层之上，皎洁永恒。&lt;/p></description></item><item><title>诗意生存</title><link>https://pandy.cc/p/sui-sui-nian/shi-yi-sheng-cun/</link><pubDate>Thu, 25 May 2023 11:13:21 +0000</pubDate><guid>https://pandy.cc/p/sui-sui-nian/shi-yi-sheng-cun/</guid><description>&lt;p>&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240502111445359.png"
-loading="lazy"
-alt="image-20240502111445359"
->&lt;/p></description></item><item><title>毛毛虫</title><link>https://pandy.cc/p/xie-zuo/mao-mao-chong/</link><pubDate>Thu, 18 May 2023 19:54:52 +0000</pubDate><guid>https://pandy.cc/p/xie-zuo/mao-mao-chong/</guid><description>&lt;p>毛毛虫是如何变成蝴蝶的？&lt;/p>
+&lt;p>人世间的很多事，很多人，很渺小，很卑微，我们对别人的尊重，对生命的尊重与爱，就是自我的存在意义与救赎，我当然希望这个世界鲜花盛开、鸟唱虫鸣，希望我姑从小就正常，可以享受青春和爱情。但如果真的黑夜来临，那人人都用爱去对待这个世界的话，将它变成一座花园，月光和日光就没什么不同，那不是漆黑，那只是偶尔路过的阴云，云层之上，皎洁永恒。&lt;/p></description></item><item><title>诗意生存</title><link>https://pandy.cc/p/sui-sui-nian/shi-yi-sheng-cun/</link><pubDate>Thu, 25 May 2023 11:13:21 +0000</pubDate><guid>https://pandy.cc/p/sui-sui-nian/shi-yi-sheng-cun/</guid><description>&lt;p>
+&lt;div class="post-img-view">
+&lt;a data-fancybox="gallery" href="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240502111445359.png">
+&lt;img src="https://pandy-cc.oss-cn-beijing.aliyuncs.com/blog/image-20240502111445359.png" alt="image-20240502111445359" />
+&lt;/a>
+&lt;/div>
+&lt;/p></description></item><item><title>毛毛虫</title><link>https://pandy.cc/p/xie-zuo/mao-mao-chong/</link><pubDate>Thu, 18 May 2023 19:54:52 +0000</pubDate><guid>https://pandy.cc/p/xie-zuo/mao-mao-chong/</guid><description>&lt;p>毛毛虫是如何变成蝴蝶的？&lt;/p>
 &lt;p>它呆在那里，呆在那个小小的茧里，连光都透不进来，四周好黑好黑，茧好小好小，它一度以为生活就是漫长无边的黑暗，宇宙就是一个比指甲盖大不了多少的茧啊……可是，可是它从小就莫名有一股想要飞的冲动……哼，别做梦了，你这个又胖又丑的虫子，你甚至会吓到才丢掉奶瓶的小朋友，人们一看到你就厌弃、就瑟瑟发抖、就想用脚踩！&lt;/p>
 &lt;p>它哭着想去找妈妈，想要问问人们说的是不是真的，它内心很敏感，它是个爱美的小姑娘，可全世界都似乎不喜欢它，想抓住它，它爬的很慢，一下一下，蜗牛还有个硬硬的壳呢，随时随地可以回家，我呢……呜呜，我的家在哪里呀？妈妈，妈妈你又在哪里呀？&lt;/p>
 &lt;p>它爬呀爬，它渴了喝点露水，它饿了吃点叶芽，却从不去伤害漂亮的花儿，它希望自己有一天可以和花儿做朋友，但是呢，他们总说自己只是一只毛毛虫，害虫！害虫能和花儿做朋友吗？我会不会吓到它？应该不能吧&amp;hellip;肯定不能吧&amp;hellip;绝对不能的。&lt;/p>
