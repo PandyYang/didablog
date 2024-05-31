@@ -71,11 +71,11 @@
 &lt;a href="#%e6%95%99%e7%a8%8b" class="header-anchor">#&lt;/a>
 教程
 &lt;/h2>&lt;ol>
-&lt;li>你需要有个Github账号，如果没有的话需要去注册一个。&lt;/li>
-&lt;/ol>
+&lt;li>
+&lt;p>你需要有个Github账号，如果没有的话需要去注册一个。&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/" target="_blank" rel="noopener"
 >https://github.com/&lt;/a>&lt;/p>
-&lt;ol start="2">
+&lt;/li>
 &lt;li>
 &lt;p>你需要打开这个项目，然后fork一下。&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/malinkang/weread2notion-pro" target="_blank" rel="noopener"
