@@ -1,1 +1,556 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技术 on Pandy</title><link>https://pandy.cc/categories/%E6%8A%80%E6%9C%AF/</link><description>Recent content in 技术 on Pandy</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://pandy.cc/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技术 on Pandy</title><link>https://pandy.cc/categories/%E6%8A%80%E6%9C%AF/</link><description>Recent content in 技术 on Pandy</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 17 May 2024 15:37:04 +0000</lastBuildDate><atom:link href="https://pandy.cc/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>一个权限系统的核心设计</title><link>https://pandy.cc/p/%E4%B8%80%E4%B8%AA%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%A0%B8%E5%BF%83%E8%AE%BE%E8%AE%A1/</link><pubDate>Fri, 17 May 2024 15:37:04 +0000</pubDate><guid>https://pandy.cc/p/%E4%B8%80%E4%B8%AA%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%A0%B8%E5%BF%83%E8%AE%BE%E8%AE%A1/</guid><description>&lt;h2 id="概述">
+&lt;a href="#%e6%a6%82%e8%bf%b0" class="header-anchor">#&lt;/a>
+概述
+&lt;/h2>&lt;p>世界是由0和1组成的，权限亦如是。&lt;/p>
+&lt;p>一个人在接近一个东西的时候，这个东西可能是调接口、可能是取钱、可能是听音乐看要不要会员，结果要么是可以，要么是不可以。接口通或不通，钱能不能取出来，音乐能不能听，这在表面上是两个不同结果的呈现。&lt;/p>
+&lt;p>权限在很多情景下，是简单的、易理解的。&lt;/p>
+&lt;p>你在银行存了2000块钱，理论上除了你，没有人能操作这笔钱。&lt;/p>
+&lt;p>你的微信账号，理论上除了你，没有人可以登录这个账号。&lt;/p>
+&lt;p>你的朋友圈设置了某某可见，理论上，除了所指定可见的用户，其余人都不可见。&lt;/p>
+&lt;p>权限在某些情况下也可能是复杂的。&lt;/p>
+&lt;p>例如公司设置，在每周六的19-21点之间，A部门的B小组下的全体成员，无法使用某系统的个别接口。&lt;/p>
+&lt;p>假如公司的组织和个人，以及小组和角色的关系是一颗大的权限树，这棵树上的各个节点，就是所谓的关系。&lt;/p>
+&lt;p>个人身上可能由多个角色或类别或组别构成，个人可能会根据权限的优先级，继承父级的权限，当一个未明确授予拒绝或允许权限的个人，试图查看一份文件时，这份文件时默认允许查看呢？还是拒绝查看呢？&lt;/p>
+&lt;p>权限的世界可以是很复杂的，但也是有趣的。&lt;/p>
+&lt;h2 id="权限设计模型rbac和abac">
+&lt;a href="#%e6%9d%83%e9%99%90%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%9e%8brbac%e5%92%8cabac" class="header-anchor">#&lt;/a>
+权限设计模型（RBAC和ABAC）
+&lt;/h2>&lt;p>基于角色的访问控制（RBAC）和基于属性的访问控制（ABAC）是控制认证过程和授权用户的两种方法。RBAC 和 ABAC 之间的主要区别是 RBAC 基于用户角色提供对资源或信息的访问，而 ABAC 基于用户、环境或资源属性提供访问权限。从本质上讲，当考虑 RBAC 与 ABAC 时，RBAC 控制整个组织的广泛访问，而 ABAC 则采取细粒度的方法。&lt;/p>
+&lt;h3 id="rbac">
+&lt;a href="#rbac" class="header-anchor">#&lt;/a>
+RBAC
+&lt;/h3>&lt;p>迄今为止最为普及的权限设计模型是RBAC模型,基于角色的访问控制（Role-Based Access Control)&lt;/p>
+&lt;p>RBAC事先会在系统中定义出不同的角色，不同的角色拥有不同的权限，一个角色实际上就是一组权限的集合。而系统的所有用户都会被分配到不同的角色中，一个用户可能拥有多个角色。使用RBAC可以极大地简化权限的管理。&lt;/p>
+&lt;h3 id="abac">
+&lt;a href="#abac" class="header-anchor">#&lt;/a>
+ABAC
+&lt;/h3>&lt;p>在 ABAC 中，一个操作是否被允许是基于对象、资源、操作和环境信息共同动态计算决定的。&lt;/p>
+&lt;ul>
+&lt;li>对象：对象是当前请求访问资源的用户。用户的属性包括ID，个人资源，角色，部门和组织成员身份等；&lt;/li>
+&lt;li>资源：资源是当前访问用户要访问的资产或对象（例如文件，数据，服务器，甚至API）。资源属性包含文件的创建日期，文件所有者，文件名和类型以及数据敏感性等等；&lt;/li>
+&lt;li>操作：操作是用户试图对资源进行的操作。常见的操作包括“读取”，“写入”，“编辑”，“复制”和“删除”；&lt;/li>
+&lt;li>环境：环境是每个访问请求的上下文。环境属性包含访问尝试的时间和位置，对象的设备，通信协议和加密强度等。&lt;/li>
+&lt;/ul>
+&lt;h1 id="文档管理系统权限设计">
+&lt;a href="#%e6%96%87%e6%a1%a3%e7%ae%a1%e7%90%86%e7%b3%bb%e7%bb%9f%e6%9d%83%e9%99%90%e8%ae%be%e8%ae%a1" class="header-anchor">#&lt;/a>
+文档管理系统权限设计
+&lt;/h1>&lt;h2 id="一-主要的类">
+&lt;a href="#%e4%b8%80-%e4%b8%bb%e8%a6%81%e7%9a%84%e7%b1%bb" class="header-anchor">#&lt;/a>
+一、 主要的类
+&lt;/h2>&lt;h3 id="1-privilege">
+&lt;a href="#1-privilege" class="header-anchor">#&lt;/a>
+1. Privilege
+&lt;/h3>&lt;p>定义权限枚举, 权限由整形的位表示。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"> 0000000000000000000000000000001 DIRECTORY_CREATE_SUB
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000000000000010 DIRECTORY_SEARCH
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000000000000100 DIRECTORY_EDIT
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000000000001000 DIRECTORY_DELETE
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000000000010000 DIRECTORY_SHARE
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000000000100000 DIRECTORY_DOWNLOAD
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000000001000000 DIRECTORY_REVIEW
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000000010000000 DIRECTORY_SUBSCRIPTION
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000000100000000 FILE_CREATE
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000001000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000010000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000000100000000000 FILE_PREVIEW
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000001000000000000 FILE_EDIT
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000010000000000000 FILE_DELETE
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000000100000000000000 FILE_SHARE
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000001000000000000000 FILE_DOWNLOAD
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000010000000000000000 FILE_SEARCH
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000000100000000000000000 FILE_VERSION
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000001000000000000000000 FILE_REVIEW
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000010000000000000000000 FILE_SUBSCRIPTION
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000000100000000000000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000001000000000000000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000010000000000000000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000000100000000000000000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000001000000000000000000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000010000000000000000000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0000100000000000000000000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0001000000000000000000000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0010000000000000000000000000000 未使用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 0100000000000000000000000000000 DIRECTORY_ACL
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 1000000000000000000000000000000 FILE_ACL
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="2-grantedprivilege">
+&lt;a href="#2-grantedprivilege" class="header-anchor">#&lt;/a>
+2. GrantedPrivilege
+&lt;/h3>&lt;p>定义授予的权限，以及权限运算&lt;br>
+权限由表示权限和掩码的两个整数组成，其中：&lt;/p>
+&lt;blockquote>
+&lt;p>a. 权限的位表示是否拥有权限。某个位为1表示拥有对应的权限，0表示不拥有。&lt;br>
+b. 掩码的位表示授予状态。某个位为1表示此项权限为明确授予，0表示未明确授予&lt;/p>
+&lt;/blockquote>
+&lt;p>最终权限为：&lt;code>权限 and 掩码&lt;/code>&lt;/p>
+&lt;p>如：&lt;/p>
+&lt;blockquote>
+&lt;p>设置允许&lt;/p>
+&lt;/blockquote>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zed" data-lang="zed">&lt;span class="line">&lt;span class="cl">&lt;span class="n">GrantedPrivilege&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="kd">permission&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="err">0&lt;/span>&lt;span class="n">b1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="n">mask&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="err">0&lt;/span>&lt;span class="n">b1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;blockquote>
+&lt;p>设置拒绝&lt;/p>
+&lt;/blockquote>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zed" data-lang="zed">&lt;span class="line">&lt;span class="cl">&lt;span class="n">GrantedPrivilege&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="kd">permission&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="err">0&lt;/span>&lt;span class="n">b0&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="n">mask&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="err">0&lt;/span>&lt;span class="n">b1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;blockquote>
+&lt;p>未明确设置，但权限被拒绝&lt;/p>
+&lt;/blockquote>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zed" data-lang="zed">&lt;span class="line">&lt;span class="cl">&lt;span class="n">GrantedPrivilege&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="kd">permission&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="err">0&lt;/span>&lt;span class="n">b0&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="n">mask&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="err">0&lt;/span>&lt;span class="n">b0&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;blockquote>
+&lt;p>错误数据&lt;/p>
+&lt;/blockquote>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-zed" data-lang="zed">&lt;span class="line">&lt;span class="cl">&lt;span class="n">GrantedPrivilege&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="kd">permission&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="err">0&lt;/span>&lt;span class="n">b1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="n">mask&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="err">0&lt;/span>&lt;span class="n">b0&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>权限合并规则：
+当用户被授予的两个权限进行合并式，按照&lt;strong>拒绝优先&lt;/strong>的规则，为:&lt;br>
+&lt;code>共同设置的，则取and，分别设置的，则取or&lt;/code>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">权限1 | 权限2
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">0 0 1 1 0 ｜ 1 1 0 1 0 permission
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">0 1 1 1 0 ｜ 1 1 0 1 0 mask
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">--------------------------------
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">0 0 1 1 0 ｜ 1 1 0 1 0 最终权限
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">--------------------------------
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">权限1 merge 权限2
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-----最终结果------
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1 0 1 1 0 permission
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1 1 1 1 0 mask
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">权限和掩码的各个位，相同取and,不同取or。
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>1 0 1 1 0 最终权限&lt;/p>
+&lt;h3 id="3-acl">
+&lt;a href="#3-acl" class="header-anchor">#&lt;/a>
+3. Acl
+&lt;/h3>&lt;p>定义权限适用规则.&lt;br>
+Acl由如下几项组成：&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>项&lt;/th>
+&lt;th>说明&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>scope&lt;/td>
+&lt;td>范围: 1. 当前节点；2. 包括自身和直接级；3. 自身和全部下级&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>allStaff&lt;/td>
+&lt;td>是否适用于所有用户&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>users&lt;/td>
+&lt;td>适用的特定用户&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>groups&lt;/td>
+&lt;td>适用的特定组&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>组合选取&lt;/td>
+&lt;td>由部门和职位以及用户特殊属性进行选取的适用范围&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>- departments&lt;/td>
+&lt;td>部门，来自HR定义&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>- classifies&lt;/td>
+&lt;td>职位，来自HR定义&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>- features&lt;/td>
+&lt;td>用户属性，包括：试用期员工和实习员工&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>- and&lt;/td>
+&lt;td>部门和职位的关系是否是交集&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="4-aclmatcher">
+&lt;a href="#4-aclmatcher" class="header-anchor">#&lt;/a>
+4. AclMatcher
+&lt;/h3>&lt;p>规则与用户匹配方法&lt;/p>
+&lt;h3 id="5-aclcompactor">
+&lt;a href="#5-aclcompactor" class="header-anchor">#&lt;/a>
+5. AclCompactor
+&lt;/h3>&lt;p>规则合并&lt;/p>
+&lt;h3 id="6-useraclattrhandler">
+&lt;a href="#6-useraclattrhandler" class="header-anchor">#&lt;/a>
+6. UserAclAttrHandler
+&lt;/h3>&lt;p>计算用户用于计算权限的各项属性。&lt;/p>
+&lt;h3 id="7-fileaclservice">
+&lt;a href="#7-fileaclservice" class="header-anchor">#&lt;/a>
+7. FileAclService
+&lt;/h3>&lt;p>定义ACL服务接口&lt;/p>
+&lt;h3 id="8-featurehandler">
+&lt;a href="#8-featurehandler" class="header-anchor">#&lt;/a>
+8. FeatureHandler
+&lt;/h3>&lt;p>处理用户的特殊属性。&lt;/p>
+&lt;h3 id="9-compactacl">
+&lt;a href="#9-compactacl" class="header-anchor">#&lt;/a>
+9. CompactAcl
+&lt;/h3>&lt;h4 id="91-定义合并后的acl">
+&lt;a href="#91-%e5%ae%9a%e4%b9%89%e5%90%88%e5%b9%b6%e5%90%8e%e7%9a%84acl" class="header-anchor">#&lt;/a>
+9.1 定义合并后的ACL。
+&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>项&lt;/th>
+&lt;th>说明&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>allowed&lt;/td>
+&lt;td>允许的条件, 参见[9.2]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>denied&lt;/td>
+&lt;td>拒绝的条件, 参见[9.2]&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4 id="92-适用条件">
+&lt;a href="#92-%e9%80%82%e7%94%a8%e6%9d%a1%e4%bb%b6" class="header-anchor">#&lt;/a>
+9.2 适用条件
+&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>项&lt;/th>
+&lt;th>说明&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>all&lt;/td>
+&lt;td>是否适用全部用户&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>users&lt;/td>
+&lt;td>用户&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>departments&lt;/td>
+&lt;td>部门&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>groups&lt;/td>
+&lt;td>组&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>classifications&lt;/td>
+&lt;td>职位&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>aclHashMap&lt;/td>
+&lt;td>复杂权限, 参见[9.3]&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;ol>
+&lt;li>all为true时，其它都应该为空&lt;/li>
+&lt;li>其余项之间的关系是或者（or)&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;h4 id="93-复杂条件">
+&lt;a href="#93-%e5%a4%8d%e6%9d%82%e6%9d%a1%e4%bb%b6" class="header-anchor">#&lt;/a>
+9.3 复杂条件
+&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>项&lt;/th>
+&lt;th>说明&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>hash&lt;/td>
+&lt;td>后四项计算的哈希码&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>and&lt;/td>
+&lt;td>是否是交集&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>departments&lt;/td>
+&lt;td>部门&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>classifications&lt;/td>
+&lt;td>职位&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>features&lt;/td>
+&lt;td>用户属性&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;ol>
+&lt;li>当departments和classifications只有之一时，and设置为true（无意义，用于生成哈希码时一致）&lt;/li>
+&lt;li>当features同时包含实习生和试用期，且只有部门或者职位之一时，此条件将移到上级，加入到部门或职位列表中。因为此种情况表示全体部门或者职位的员工。&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;h3 id="10-useraclattr">
+&lt;a href="#10-useraclattr" class="header-anchor">#&lt;/a>
+10. UserAclAttr
+&lt;/h3>&lt;p>定义用户拥有的属性，包括：&lt;/p>
+&lt;blockquote>
+&lt;ol>
+&lt;li>部门，（直接部门和上级部门）&lt;/li>
+&lt;li>职位&lt;/li>
+&lt;li>所在组别&lt;/li>
+&lt;li>满足的复杂条件哈希&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;h2 id="二权限设置">
+&lt;a href="#%e4%ba%8c%e6%9d%83%e9%99%90%e8%ae%be%e7%bd%ae" class="header-anchor">#&lt;/a>
+二、权限设置
+&lt;/h2>&lt;blockquote>
+&lt;ol>
+&lt;li>权限设置在任意的目录或者文件节点之上。&lt;/li>
+&lt;li>设置在文件上的权限只对当前文件有关，因此&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;ol>
+&lt;li>只应该设置文档权限&lt;/li>
+&lt;li>只应该设置范围为当前&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;ol start="3">
+&lt;li>目录上设置的文件权限对目录下的文件有效。&lt;/li>
+&lt;li>目录或者文件上可以设置取消继承标示，表示当前目录或文件之前的权限规则无效。&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;h2 id="三具体过程">
+&lt;a href="#%e4%b8%89%e5%85%b7%e4%bd%93%e8%bf%87%e7%a8%8b" class="header-anchor">#&lt;/a>
+三、具体过程
+&lt;/h2>&lt;h3 id="1-计算对某个节点目录或者文件起作用的acl">
+&lt;a href="#1-%e8%ae%a1%e7%ae%97%e5%af%b9%e6%9f%90%e4%b8%aa%e8%8a%82%e7%82%b9%e7%9b%ae%e5%bd%95%e6%88%96%e8%80%85%e6%96%87%e4%bb%b6%e8%b5%b7%e4%bd%9c%e7%94%a8%e7%9a%84acl" class="header-anchor">#&lt;/a>
+1. 计算对某个节点(目录或者文件)起作用的ACL
+&lt;/h3>&lt;blockquote>
+&lt;ol>
+&lt;li>查询节点以及上级节点上所设置的所有ACL&lt;/li>
+&lt;li>查询节点以及上级节点上有禁止继承标示的节点&lt;/li>
+&lt;li>抹除禁止继承节点影响的ACL的权限&lt;/li>
+&lt;li>根据ACL的作用范围，计算是否适用当前节点，得到实际有效的ACL&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;h3 id="2-合并acl">
+&lt;a href="#2-%e5%90%88%e5%b9%b6acl" class="header-anchor">#&lt;/a>
+2. 合并ACL
+&lt;/h3>&lt;blockquote>
+&lt;ol>
+&lt;li>分为允许和拒绝&lt;/li>
+&lt;li>是否为全部用户允许&lt;/li>
+&lt;li>合并用户和组别&lt;/li>
+&lt;li>判别部门和职位以及特征的组合是否需要用Hash方式生成复杂条件&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;ol>
+&lt;li>当同时存在部门和职位时&lt;/li>
+&lt;li>当部门或者部门之一存在，且不包含全部的特征（实习生，试用期）&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;ol start="5">
+&lt;li>将拒绝的条件从允许条件里删除&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;h3 id="3-匹配acl获取授权">
+&lt;a href="#3-%e5%8c%b9%e9%85%8dacl%e8%8e%b7%e5%8f%96%e6%8e%88%e6%9d%83" class="header-anchor">#&lt;/a>
+3. 匹配ACL，获取授权
+&lt;/h3>&lt;p>分为：合并和非合并&lt;/p>
+&lt;h3 id="4-计算acl影响的文件和目录">
+&lt;a href="#4-%e8%ae%a1%e7%ae%97acl%e5%bd%b1%e5%93%8d%e7%9a%84%e6%96%87%e4%bb%b6%e5%92%8c%e7%9b%ae%e5%bd%95" class="header-anchor">#&lt;/a>
+4. 计算ACL影响的文件和目录
+&lt;/h3>&lt;p>此处为避免遍历目录和文件，适用凑条件的方式生成SQL语句进行查询。&lt;/p>
+&lt;p>需要的条件：&lt;/p>
+&lt;blockquote>
+&lt;ol>
+&lt;li>ACL&lt;/li>
+&lt;li>权限掩码&lt;/li>
+&lt;li>断路目录&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;p>生成FileQueryParam&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>属性&lt;/th>
+&lt;th>说明&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>equalList&lt;/td>
+&lt;td>= path&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>likeList&lt;/td>
+&lt;td>like path/%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>likeFileList&lt;/td>
+&lt;td>like path/% and type = file&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>likeDirList&lt;/td>
+&lt;td>like path/% and type = dir&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>similar1FileList&lt;/td>
+&lt;td>match path/[0-9]+ and type = file&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>similar1DirList&lt;/td>
+&lt;td>match path/[0-9]+ and type = dir&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>similar2FileList&lt;/td>
+&lt;td>match path(/[0-9]+){2} and type = file&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>如果存在断路目录，则对应条件加上：&lt;code>and not like path/%&lt;/code>&lt;/p>
+&lt;p>简要过程：&lt;/p>
+&lt;blockquote>
+&lt;ol>
+&lt;li>
+&lt;p>设置在文件上的权限只对文件有效，因此生成：file.name = path&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>设置在目录上的权限&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>a. 当前及全部下级，&lt;/p>
+&lt;blockquote>
+&lt;p>目录：dir.name = path 和 dir.name like path/%&lt;br>
+文件：file.name = path 和 file.name like path/%&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>b. 当前节点范围，&lt;/p>
+&lt;blockquote>
+&lt;p>目录：dir.name = path&lt;br>
+文件：file.name match path/[0-9]+&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>c. 当前及直接下级范围，&lt;/p>
+&lt;blockquote>
+&lt;p>目录：dir.name = path 和 dir.name match path/[0-9]+&lt;br>
+文件：file.name match path/[0-9]+ 和 file.name match path(/[0-9]+){2}&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote></description></item></channel></rss>
